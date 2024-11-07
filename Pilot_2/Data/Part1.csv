@@ -1,0 +1,494 @@
+﻿treatment,participant.id_in_session,participant.code,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.time_started_utc,participant.visited,player.language,player.municipality_home,player.driving_license,player.access_to_car,player.car_type,player.buy_car_type,player.access_to_bike,player.access_to_motorbyke,player.access_to_scooter,player.employ_status,player.municipality_destination,player.trip_purpose,player.trip_other,player.trip_moment,player.trip_mode,player.mode_other,player.trip_traffic,player.trip_time,player.trip_cost,player.trip_tolls,player.trip_alternative_mode,player.trip_alternative_rate,player.trip_alternative_justification,player.inequality_perception,player.inequality_wish,player.income_distribution,session.code
+Baseline,1,ooxl8r2l,169,169,A_Planet3_ES,End,52:53.9,1,ES,81,1,0,0,,1,2,2,2,81,3,,0,5,,2,0,0,,7,1,,1,4,4,uln4i2w2
+Pollution,2,i6cytpys,169,169,A_Planet3_ES,End,27:59.7,1,ES,85,1,1,1,4,1,2,2,0,82,0,,0,3,,1,1,0,,2,0,,3,4,2,uln4i2w2
+Public Services,3,js43i4q6,169,169,A_Planet3_ES,End,15:31.7,1,ES,78,1,1,1,4,0,2,2,0,94,0,,0,2,,0,1,0,,4,1,,1,4,4,uln4i2w2
+Road Pricing,4,wjalnvbm,169,169,A_Planet3_ES,End,32:09.6,1,ES,73,1,1,1,4,0,2,2,2,81,1,,2,2,,1,3,0,,4,1,,2,5,3,uln4i2w2
+Social Norm,5,bt4ub78z,169,169,A_Planet3_ES,End,24:33.9,1,ES,3,1,0,0,,0,1,0,2,79,4,,2,0,,1,1,5,1,1,0,,5,4,3,uln4i2w2
+Baseline,6,5thamyfx,169,169,A_Planet3_ES,End,08:54.6,1,ES,95,1,1,0,4,1,2,2,2,64,1,,1,2,,1,0,1,,0,1,,2,4,3,uln4i2w2
+Pollution,7,8xnl007r,169,169,A_Planet3_ES,End,24:41.5,1,ES,85,1,0,1,,1,1,1,0,86,5,,0,0,,2,0,1,1,3,2,,4,5,2,uln4i2w2
+Public Services,8,wa9mirry,169,169,A_Planet3_ES,End,11:01.5,1,ES,89,1,1,0,0,2,2,1,2,73,1,,0,0,,1,1,1,1,3,2,,3,4,3,uln4i2w2
+Road Pricing,9,7swa81a6,169,169,A_Planet3_ES,End,24:46.0,1,ES,80,1,1,1,4,2,2,2,2,169,1,,0,4,,0,3,0,,0,1,,3,4,3,uln4i2w2
+Social Norm,10,8utng60s,169,169,A_Planet3_ES,End,02:03.4,1,ES,89,0,1,0,4,2,2,0,5,91,5,,2,3,,1,1,1,,5,1,,1,4,4,uln4i2w2
+Baseline,11,iljz4kcr,169,169,A_Planet3_ES,End,54:06.3,1,ES,86,1,1,0,4,1,2,2,2,64,1,,1,4,,1,3,0,,0,0,,3,5,3,uln4i2w2
+Pollution,12,a74gqjmu,8,169,A_Planet1_ES,B6,06:07.8,1,ES,73,1,1,1,4,2,2,2,2,,,,,,,,,,,,,,,,,uln4i2w2
+Public Services,13,g57v7f6b,169,169,A_Planet3_ES,End,00:06.7,1,ES,5,0,1,1,4,0,2,2,2,73,1,,0,4,,1,3,0,,0,1,,3,5,4,uln4i2w2
+Road Pricing,14,mjk6292s,169,169,A_Planet3_ES,End,58:03.4,1,ES,87,0,1,0,4,1,2,2,2,73,1,,0,3,,1,2,0,,4,1,,4,6,3,uln4i2w2
+Social Norm,15,b2zbxt87,169,169,A_Planet3_ES,End,17:16.1,1,ES,86,1,1,0,4,0,2,2,2,73,1,,0,4,,1,3,0,,1,3,,2,5,4,uln4i2w2
+Baseline,16,f7l8qaxj,169,169,A_Planet3_ES,End,26:40.5,1,ES,57,1,1,1,4,0,0,2,2,73,1,,0,0,,2,0,1,1,8,0,,4,5,3,uln4i2w2
+Pollution,17,gc2yc6kb,169,169,A_Planet3_ES,End,00:40.1,1,ES,81,1,1,0,4,2,2,2,2,64,1,,0,4,,0,0,1,,0,0,,3,5,2,uln4i2w2
+Public Services,18,lceiue4p,169,169,A_Planet3_ES,End,52:30.5,1,ES,81,1,2,,4,2,2,2,2,73,1,,0,4,,1,1,0,,0,1,,3,4,3,uln4i2w2
+Road Pricing,19,yhtytjg8,169,169,A_Planet3_ES,End,03:38.2,1,ES,82,1,1,2,4,2,2,2,2,73,1,,0,4,,1,2,1,,0,0,,2,4,3,uln4i2w2
+Social Norm,20,oce85yq5,169,169,A_Planet3_ES,End,37:56.9,1,ES,85,1,0,0,,2,2,2,0,85,0,,0,0,,2,0,0,1,1,0,,2,4,3,uln4i2w2
+Baseline,21,2x8lwzgs,169,169,A_Planet3_ES,End,16:30.4,1,ES,78,1,1,0,2,1,2,2,2,81,6,,2,5,,1,1,0,,6,0,,4,4,2,uln4i2w2
+Pollution,22,s3lur6hw,169,169,A_Planet3_ES,End,07:39.0,1,ES,139,1,0,2,,0,2,0,0,73,0,,0,0,,2,0,2,1,3,2,,3,5,3,uln4i2w2
+Public Services,23,xrbj74l6,169,169,A_Planet3_ES,End,56:58.5,1,ES,92,1,2,,4,1,2,2,0,82,0,,0,3,,0,1,0,,8,0,,3,5,3,uln4i2w2
+Road Pricing,24,j632e8gi,169,169,A_Planet3_ES,End,52:17.6,1,ES,78,1,0,1,,1,1,1,2,64,1,,1,2,,1,1,0,,0,0,,3,5,3,uln4i2w2
+Social Norm,25,vbrs1zxw,169,169,A_Planet3_ES,End,17:17.2,1,ES,84,1,0,1,,2,1,2,2,21,1,,0,0,,0,1,3,1,2,2,,4,4,2,uln4i2w2
+Baseline,26,dp91xtaq,169,169,A_Planet3_ES,End,59:31.1,1,ES,90,1,0,1,,2,2,2,0,6,0,,0,0,,0,2,1,1,10,,"La que tengo que la mejor, la más rápida ",4,5,4,uln4i2w2
+Pollution,27,3wx4k804,169,169,A_Planet3_ES,End,08:37.4,1,ES,121,0,2,,4,2,2,2,2,64,1,,1,4,,0,2,3,,10,,"porque no tengo coche, tampoco patineta, tampoco hay metro, ni autobuses de Parla a la universidad. solo cercanias",4,4,4,uln4i2w2
+Public Services,28,ku4wa0bo,169,169,A_Planet3_ES,End,39:47.2,1,ES,90,0,2,,2,1,2,2,1,90,5,,2,2,,0,0,0,,10,,La zona de Entrevías no está muy comunicada...,3,5,4,uln4i2w2
+Road Pricing,29,xqb85ccf,169,169,A_Planet3_ES,End,02:59.6,1,ES,6,0,2,,4,2,2,2,2,5,1,,0,2,,2,2,3,,1,0,,1,5,1,uln4i2w2
+Social Norm,30,7bbx2y71,169,169,A_Planet3_ES,End,51:09.2,1,ES,21,1,1,0,1,0,2,2,1,73,0,,0,0,,0,1,2,1,1,0,,4,5,2,uln4i2w2
+Baseline,31,blto2mcw,169,169,A_Planet3_ES,End,17:36.7,1,ES,94,1,0,0,,0,2,2,0,82,0,,0,3,,0,0,0,,5,0,,2,5,3,uln4i2w2
+Pollution,32,x30bjs8t,169,169,A_Planet3_ES,End,00:08.4,1,ES,82,1,1,0,4,2,1,2,2,73,1,,1,0,,0,1,1,1,4,2,,3,5,2,uln4i2w2
+Public Services,33,j1jyvbvz,169,169,A_Planet3_ES,End,14:49.2,1,ES,97,1,1,1,4,0,2,2,0,81,0,,0,4,,0,1,0,,1,0,,2,5,3,uln4i2w2
+Road Pricing,34,u64v8el2,169,169,A_Planet3_ES,End,51:31.4,1,ES,82,1,1,2,4,1,1,1,2,5,1,,0,4,,0,1,0,,0,0,,3,4,2,uln4i2w2
+Social Norm,35,04x8stxz,169,169,A_Planet3_ES,End,01:03.9,1,ES,176,1,1,1,4,0,2,2,2,82,1,,0,4,,0,3,1,,0,0,,1,5,4,uln4i2w2
+Baseline,36,i9o0qyx0,169,169,A_Planet3_ES,End,37:16.7,1,ES,85,0,2,,4,1,1,1,2,73,1,,0,3,,1,3,0,,1,0,,2,5,3,uln4i2w2
+Pollution,37,06u8w2cd,169,169,A_Planet3_ES,End,43:51.2,1,ES,85,1,0,0,,0,2,2,5,5,7,Visitar pareja,3,0,,2,0,1,1,4,1,,2,4,3,uln4i2w2
+Public Services,38,squ1qny3,169,169,A_Planet3_ES,End,29:05.4,1,ES,57,1,0,0,,0,2,2,0,94,0,,0,4,,0,1,1,,0,2,,2,4,4,uln4i2w2
+Road Pricing,39,1nh05e9w,169,169,A_Planet3_ES,End,37:34.2,1,ES,91,1,1,0,4,1,2,2,2,73,1,,0,4,,1,1,0,,1,0,,3,5,5,uln4i2w2
+Social Norm,40,axzk9gj9,169,169,A_Planet3_ES,End,19:44.7,1,ES,53,1,0,0,,2,2,2,2,43,1,,2,2,,1,1,2,,0,0,,4,5,3,uln4i2w2
+Baseline,41,0kr4ett4,1,169,A_Planet1_ES,A1,07:52.7,1,EN,,,,,,,,,,,,,,,,,,,,,,,,,,uln4i2w2
+Pollution,42,86t6doru,169,169,A_Planet3_ES,End,01:02.8,1,ES,73,1,1,1,4,2,2,2,2,73,1,,0,2,,2,0,0,,5,0,,4,4,5,uln4i2w2
+Public Services,43,m58iw3h4,169,169,A_Planet3_ES,End,06:25.8,1,ES,97,1,1,1,4,0,1,1,0,82,0,,0,4,,0,2,1,,1,0,,2,4,3,uln4i2w2
+Road Pricing,44,uhxmj0wy,169,169,A_Planet3_ES,End,41:35.2,1,ES,83,0,2,,4,2,2,1,2,88,1,,0,2,,2,0,0,,3,1,,4,5,3,uln4i2w2
+Social Norm,45,mljhhksv,169,169,A_Planet3_ES,End,55:53.8,1,ES,83,1,1,0,4,1,2,2,2,92,0,,0,2,,1,0,0,,5,0,,2,4,3,uln4i2w2
+Baseline,46,mwllqpwo,169,169,A_Planet3_ES,End,04:55.7,1,ES,97,1,1,0,4,0,1,2,0,73,5,,1,0,,1,0,0,1,4,1,,4,5,2,uln4i2w2
+Pollution,47,tklufas1,169,169,A_Planet3_ES,End,13:22.6,1,ES,84,1,0,1,,0,2,2,0,64,0,,0,0,,2,1,2,1,1,0,,2,4,3,uln4i2w2
+Public Services,48,n1jz31mj,169,169,A_Planet3_ES,End,50:29.7,1,ES,73,1,1,1,2,0,2,1,2,80,0,,0,2,,2,1,1,,0,1,,3,4,3,uln4i2w2
+Road Pricing,49,q8qluwoa,169,169,A_Planet3_ES,End,58:25.7,1,ES,83,0,2,,4,1,2,2,2,81,6,,2,5,,1,2,0,,3,1,,3,5,3,uln4i2w2
+Social Norm,50,6qhl0fs6,169,169,A_Planet3_ES,End,14:24.3,1,ES,82,1,2,,4,1,2,2,0,81,6,,2,3,,1,1,1,,2,1,,2,5,3,uln4i2w2
+Baseline,51,cuye6dd3,169,169,A_Planet3_ES,End,06:28.2,1,ES,86,1,1,0,4,2,2,2,0,92,0,,0,3,,0,1,0,,2,1,,2,5,4,uln4i2w2
+Pollution,52,ubf01yyz,169,169,A_Planet3_ES,End,36:50.9,1,ES,90,1,1,0,2,2,2,2,0,93,0,,0,0,,1,1,2,1,10,,Lugar mal comunicado por medios de transporte público,2,4,3,uln4i2w2
+Public Services,53,025baf3d,169,169,A_Planet3_ES,End,13:17.1,1,ES,64,1,0,1,,2,2,2,2,81,6,,2,4,,0,1,0,,3,1,,1,4,3,uln4i2w2
+Road Pricing,54,u1sfa65t,169,169,A_Planet3_ES,End,27:17.0,1,ES,92,0,1,2,2,1,2,1,4,81,4,,2,3,,1,1,1,,1,0,,2,4,3,uln4i2w2
+Social Norm,55,f1gy2a1i,169,169,A_Planet3_ES,End,42:24.8,1,ES,91,1,1,1,4,0,1,1,2,82,5,,2,3,,1,2,0,,9,0,,2,4,2,uln4i2w2
+Baseline,56,00yymq0o,169,169,A_Planet3_ES,End,51:21.2,1,ES,81,0,1,1,4,0,2,1,2,92,0,,0,3,,0,0,0,,2,1,,3,4,3,uln4i2w2
+Pollution,57,sfblbvwk,169,169,A_Planet3_ES,End,11:31.5,1,ES,81,0,2,,4,1,1,1,0,82,0,,0,3,,1,1,1,,8,1,,3,4,3,uln4i2w2
+Public Services,58,okgoorqe,169,169,A_Planet3_ES,End,05:07.6,1,ES,92,1,0,0,,0,2,2,0,91,0,,0,3,,0,0,0,,8,0,,1,4,4,uln4i2w2
+Road Pricing,59,vdaxa6tc,169,169,A_Planet3_ES,End,32:56.5,1,ES,80,0,1,0,0,1,1,0,1,87,2,,0,2,,0,1,1,,0,0,,1,4,4,uln4i2w2
+Social Norm,60,o4o34ebb,169,169,A_Planet3_ES,End,59:42.6,1,ES,94,0,2,,4,1,2,1,0,82,0,,0,3,,0,1,1,,6,3,,4,5,3,uln4i2w2
+Baseline,61,ucm1u4ag,169,169,A_Planet3_ES,End,02:17.8,1,ES,6,1,1,1,1,1,2,2,2,73,1,,2,3,,1,1,0,,0,1,,2,4,2,uln4i2w2
+Pollution,62,0heamljk,169,169,A_Planet3_ES,End,21:41.8,1,ES,57,1,1,0,1,0,2,2,0,57,5,,2,2,,1,1,1,,0,0,,2,4,3,uln4i2w2
+Public Services,63,qo94kr9x,169,169,A_Planet3_ES,End,59:01.7,1,ES,102,1,1,1,4,2,2,2,0,82,0,,0,0,,0,2,3,1,10,,El tiempo que se tarda con cualquier otra alternativa es inviable,4,4,2,uln4i2w2
+Road Pricing,64,lqwx8yq8,169,169,A_Planet3_ES,End,39:33.9,1,ES,6,1,1,2,4,2,2,1,2,73,1,,2,3,,1,0,0,,2,1,,4,4,5,uln4i2w2
+Social Norm,65,m3gt87zy,169,169,A_Planet3_ES,End,19:42.9,1,ES,64,1,0,1,,1,2,2,0,81,0,,0,4,,1,2,0,,0,0,,3,5,3,uln4i2w2
+Baseline,66,87r3ztc7,169,169,A_Planet3_ES,End,52:00.4,1,ES,83,0,1,1,4,0,2,2,2,53,7,Visitar segunda residencia,0,1,,2,2,2,1,4,1,,3,4,2,uln4i2w2
+Pollution,67,bcqkcoin,169,169,A_Planet3_ES,End,57:40.8,1,ES,88,1,1,0,4,2,2,2,0,92,0,,0,3,,0,2,3,,1,2,,3,5,2,uln4i2w2
+Public Services,68,mxwgg2gu,169,169,A_Planet3_ES,End,26:19.4,1,ES,4,1,0,1,,2,1,1,2,12,4,,2,3,,1,1,2,,3,1,,4,3,3,uln4i2w2
+Social Norm,70,knetg7bm,169,169,A_Planet3_ES,End,45:52.7,1,ES,6,0,1,0,4,0,2,2,2,64,1,,0,3,,1,0,1,,2,1,,1,4,2,uln4i2w2
+Baseline,71,hrd6w0r8,169,169,A_Planet3_ES,End,01:08.6,1,ES,73,1,0,0,,2,2,2,4,64,6,,2,5,,2,1,1,,2,1,,3,4,3,uln4i2w2
+Pollution,72,kapv8l3b,169,169,A_Planet3_ES,End,27:49.0,1,ES,46,1,0,1,,2,2,2,0,143,0,,0,0,,1,0,1,1,1,1,,1,3,2,uln4i2w2
+Public Services,73,5rwmd8l6,169,169,A_Planet3_ES,End,31:17.6,1,ES,73,0,0,1,,2,2,1,0,82,0,,0,4,,0,3,2,,3,1,,1,2,4,uln4i2w2
+Road Pricing,74,40ibzesx,169,169,A_Planet3_ES,End,01:44.6,1,ES,88,1,1,1,4,0,2,2,0,88,0,,0,2,,1,1,1,,3,0,,4,5,3,uln4i2w2
+Social Norm,75,9vtbeq8e,169,169,A_Planet3_ES,End,07:24.1,1,ES,73,1,1,0,4,1,2,1,2,6,6,,1,3,,1,0,1,,0,3,,3,4,3,uln4i2w2
+Baseline,76,aamf7pwl,169,169,A_Planet3_ES,End,23:34.7,1,ES,92,1,1,0,4,1,1,2,2,81,5,,2,3,,1,1,0,,5,1,,2,4,3,uln4i2w2
+Public Services,78,9lk12f65,169,169,A_Planet3_ES,End,44:01.1,1,ES,64,1,0,0,,2,2,2,1,73,6,,2,0,,1,0,2,1,3,1,,3,5,3,uln4i2w2
+Road Pricing,79,qp73ogxu,169,169,A_Planet3_ES,End,02:30.6,1,ES,57,1,0,2,,2,2,2,0,91,0,,0,4,,0,2,5,,0,1,,1,5,3,uln4i2w2
+Social Norm,80,9brj2ixg,169,169,A_Planet3_ES,End,33:10.4,1,ES,130,1,1,1,4,0,2,2,2,73,1,,0,3,,1,2,0,,0,0,,3,5,3,uln4i2w2
+Baseline,81,qi09q0sa,169,169,A_Planet3_ES,End,34:36.1,1,ES,64,0,2,,4,1,2,2,2,169,5,,2,4,,1,3,2,,1,3,,4,5,3,uln4i2w2
+Pollution,82,z4ro1c9x,169,169,A_Planet3_ES,End,43:07.9,1,ES,97,1,2,,4,0,2,2,0,82,0,,0,4,,0,1,0,,3,1,,1,5,3,uln4i2w2
+Public Services,83,rjcuuycq,169,169,A_Planet3_ES,End,57:46.5,1,ES,0,1,1,2,1,1,0,2,0,6,6,,3,3,,2,1,1,,2,0,,6,6,5,uln4i2w2
+Road Pricing,84,j659sltz,169,169,A_Planet3_ES,End,05:47.8,1,ES,85,1,1,1,4,2,2,2,0,85,0,,0,2,,2,2,1,,0,0,,2,5,4,uln4i2w2
+Social Norm,85,2eqkjz0s,169,169,A_Planet3_ES,End,25:31.8,1,ES,4,0,2,,4,2,2,2,0,98,1,,1,4,,1,3,2,,2,0,,4,2,4,uln4i2w2
+Baseline,86,q8zk1goq,169,169,A_Planet3_ES,End,01:35.2,1,ES,80,1,2,,2,0,2,2,2,81,1,,0,2,,2,0,1,,3,0,,3,5,3,uln4i2w2
+Pollution,87,vz4ndwcd,169,169,A_Planet3_ES,End,36:04.2,1,ES,73,1,1,0,2,0,2,2,2,64,1,,0,4,,0,1,0,,2,0,,3,4,3,uln4i2w2
+Public Services,88,2s8tpdkn,169,169,A_Planet3_ES,End,03:08.2,1,ES,89,1,1,1,4,0,2,2,0,94,0,,0,3,,0,0,0,,8,1,,2,4,3,uln4i2w2
+Road Pricing,89,7qmr53qd,169,169,A_Planet3_ES,End,56:27.9,1,ES,191,1,1,2,4,2,1,2,0,82,0,,0,0,,0,3,2,1,2,2,,4,4,2,uln4i2w2
+Social Norm,90,h1333c3r,169,169,A_Planet3_ES,End,59:29.2,1,ES,44,1,1,1,4,0,2,2,2,110,1,,1,4,,1,3,3,,0,0,,3,5,3,uln4i2w2
+Baseline,91,svgvhfkx,169,169,A_Planet3_ES,End,01:45.1,1,ES,85,1,0,0,,0,0,2,0,82,0,,0,8,,1,0,0,1,3,1,,4,5,3,uln4i2w2
+Pollution,92,wv0toxws,169,169,A_Planet3_ES,End,30:40.7,1,ES,84,1,1,0,4,2,2,2,0,93,0,,0,3,,0,0,0,,2,1,,3,4,3,uln4i2w2
+Public Services,93,kude0f05,169,169,A_Planet3_ES,End,36:53.5,1,ES,91,1,0,1,,0,1,2,2,64,1,,1,0,,1,1,1,1,4,0,,2,4,3,uln4i2w2
+Road Pricing,94,y78a0e4p,169,169,A_Planet3_ES,End,13:57.2,1,ES,64,1,1,0,4,0,2,2,0,64,0,,2,0,,2,0,2,1,2,1,,4,4,4,uln4i2w2
+Social Norm,95,alsprk3f,169,169,A_Planet3_ES,End,44:47.8,1,ES,81,1,2,,4,2,2,2,0,90,6,,2,2,,0,0,1,,4,1,,4,5,4,uln4i2w2
+Baseline,96,enhpmva1,169,169,A_Planet3_ES,End,18:29.5,1,ES,78,1,0,0,,1,2,2,0,21,0,,0,0,,1,1,3,1,8,0,,3,4,3,uln4i2w2
+Pollution,97,s3iwzftl,169,169,A_Planet3_ES,End,07:21.7,1,ES,97,1,0,0,,0,2,2,0,5,0,,0,0,,0,1,1,1,1,0,,3,5,3,uln4i2w2
+Public Services,98,lhilbbyr,169,169,A_Planet3_ES,End,28:28.0,1,ES,95,0,2,,4,1,2,2,0,64,0,,0,5,,2,1,1,,4,1,,2,5,4,uln4i2w2
+Road Pricing,99,mmwi7ssd,169,169,A_Planet3_ES,End,03:47.7,1,ES,79,0,1,1,4,2,2,2,2,91,0,,0,2,,1,1,1,,3,0,,4,4,2,uln4i2w2
+Social Norm,100,ckgdbhy3,169,169,A_Planet3_ES,End,01:53.7,1,ES,71,1,0,1,,2,2,2,0,99,6,,2,0,,2,0,1,1,1,1,,3,4,4,uln4i2w2
+Baseline,101,ygzo60jz,169,169,A_Planet3_ES,End,21:59.8,1,ES,64,1,1,1,4,0,2,0,2,64,1,,1,2,,1,1,3,,0,1,,2,5,3,uln4i2w2
+Pollution,102,o36q4v3s,169,169,A_Planet3_ES,End,20:32.9,1,ES,78,1,1,0,4,1,2,2,0,83,0,,0,3,,0,2,0,,2,1,,2,5,4,uln4i2w2
+Public Services,103,2chu8i27,169,169,A_Planet3_ES,End,18:37.3,1,ES,6,1,1,2,4,0,2,2,1,73,1,,0,3,,1,1,1,,10,,No es posible ir en bicicleta por la existencia de autopistas mientras que no me gustaría usar el coche por motivos medioambientales. El metro es la mejor alternativa y la que utilizo.,3,4,3,uln4i2w2
+Road Pricing,104,yatjkrmr,169,169,A_Planet3_ES,End,57:04.5,1,ES,80,1,0,1,,1,2,1,0,81,0,,0,3,,0,1,1,,0,2,,5,4,3,uln4i2w2
+Social Norm,105,oljn48l4,169,169,A_Planet3_ES,End,54:54.0,1,ES,80,0,1,0,4,0,2,2,2,73,1,,0,2,,1,0,0,,1,0,,1,5,3,uln4i2w2
+Pollution,107,qtpo1paq,169,169,A_Planet3_ES,End,12:52.4,1,ES,64,1,1,0,4,1,0,2,1,73,0,,2,2,,2,1,0,,3,0,,3,4,3,uln4i2w2
+Public Services,108,nc77kida,169,169,A_Planet3_ES,End,58:30.7,1,ES,139,1,1,2,4,0,2,2,0,5,0,,0,3,,1,4,1,,1,0,,3,1,4,uln4i2w2
+Road Pricing,109,hgm4z5p8,169,169,A_Planet3_ES,End,09:04.2,1,ES,98,1,1,0,4,0,2,2,0,64,0,,0,0,,1,0,1,1,2,2,,3,5,3,uln4i2w2
+Social Norm,110,e13kuef8,169,169,A_Planet3_ES,End,46:49.4,1,ES,78,1,1,1,4,1,2,2,0,5,0,,0,2,,2,2,0,,3,2,,2,4,3,uln4i2w2
+Baseline,111,3cz9co3h,169,169,A_Planet3_ES,End,55:55.2,1,ES,98,1,0,2,,0,2,2,0,169,0,,0,0,,0,2,2,1,4,1,,3,5,3,uln4i2w2
+Pollution,112,5j8u76qo,169,169,A_Planet3_ES,End,32:04.8,1,ES,94,1,0,0,,1,2,2,2,81,1,,0,3,,1,1,0,,6,1,,3,4,3,uln4i2w2
+Public Services,113,lp4ad4ql,169,169,A_Planet3_ES,End,34:52.9,1,ES,73,1,1,1,4,2,2,2,0,82,0,,0,3,,0,3,0,,1,0,,1,4,3,uln4i2w2
+Road Pricing,114,syr4wgae,169,169,A_Planet3_ES,End,03:58.3,1,ES,110,0,1,0,0,2,2,2,2,85,0,,0,3,,1,3,2,,10,,El viaje hasta el destino tanto en coche privado como en transporte público me lleva el mismo tiempo ,4,3,3,uln4i2w2
+Pollution,117,xbf6cmvi,169,169,A_Planet3_ES,End,10:10.1,1,ES,78,1,1,0,4,0,2,0,1,73,1,,0,4,,1,2,0,,0,0,,5,2,3,uln4i2w2
+Public Services,118,sntst306,169,169,A_Planet3_ES,End,18:17.1,1,ES,88,0,2,,4,1,2,0,1,92,0,,0,3,,1,0,0,,7,0,,2,5,3,uln4i2w2
+Road Pricing,119,gem1bswc,169,169,A_Planet3_ES,End,04:55.5,1,ES,89,1,1,2,4,1,1,1,2,73,1,,1,4,,1,3,0,,0,1,,4,5,2,uln4i2w2
+Social Norm,120,xhwxoldo,169,169,A_Planet3_ES,End,51:53.9,1,ES,57,0,2,,4,2,2,2,2,98,1,,0,2,,2,1,1,,0,0,,5,2,1,uln4i2w2
+Baseline,121,mh0zrq4j,169,169,A_Planet3_ES,End,24:43.7,1,ES,166,1,1,1,4,2,2,2,0,85,0,,0,0,,1,1,1,1,4,0,,3,5,2,uln4i2w2
+Pollution,122,thyenl6n,169,169,A_Planet3_ES,End,03:41.3,1,ES,91,1,1,0,4,1,1,2,5,94,0,,1,3,,0,2,0,,4,1,,3,5,3,uln4i2w2
+Public Services,123,7kaff9s6,169,169,A_Planet3_ES,End,35:34.2,1,ES,80,0,1,1,4,0,2,2,2,73,1,,1,2,,1,0,0,,1,0,,2,5,3,uln4i2w2
+Road Pricing,124,sluauxoo,169,169,A_Planet3_ES,End,04:11.4,1,ES,97,1,1,1,4,1,2,2,1,57,1,,2,4,,0,3,2,,1,0,,3,6,3,uln4i2w2
+Social Norm,125,xf7pyh82,169,169,A_Planet3_ES,End,18:04.6,1,ES,169,1,0,0,,1,0,2,0,48,0,,0,0,,2,1,2,1,1,0,,3,4,2,uln4i2w2
+Baseline,126,230y2x7c,169,169,A_Planet3_ES,End,13:21.3,1,ES,83,1,1,0,4,0,2,2,2,73,1,,0,3,,1,2,0,,4,1,,4,5,2,uln4i2w2
+Pollution,127,ikggdxke,169,169,A_Planet3_ES,End,53:43.3,1,ES,83,1,1,0,4,1,1,2,2,81,0,,0,5,,1,1,0,,3,0,,3,4,3,uln4i2w2
+Public Services,128,2s5j0zxj,169,169,A_Planet3_ES,End,19:02.4,1,ES,88,1,1,0,4,0,1,1,2,73,1,,0,3,,0,2,0,,0,0,,2,5,4,uln4i2w2
+Road Pricing,129,xyklbkdg,169,169,A_Planet3_ES,End,52:01.7,1,ES,99,1,1,1,4,0,0,2,0,73,0,,0,0,,1,1,1,1,4,1,,3,4,3,uln4i2w2
+Social Norm,130,4tw3gwgv,169,169,A_Planet3_ES,End,45:53.3,1,ES,80,0,2,,3,0,1,2,4,95,4,,2,2,,1,0,1,,0,0,,2,4,4,uln4i2w2
+Baseline,131,uc0t2qo5,169,169,A_Planet3_ES,End,33:39.0,1,ES,84,1,0,0,,0,0,2,0,139,0,,2,8,,2,0,1,1,0,1,,2,4,3,uln4i2w2
+Pollution,132,fuj3ub9q,169,169,A_Planet3_ES,End,43:59.7,1,ES,73,1,1,0,4,0,1,1,2,73,1,,0,5,,2,0,0,,6,0,,2,4,3,uln4i2w2
+Public Services,133,s8o9n3p1,169,169,A_Planet3_ES,End,03:22.7,1,ES,83,0,1,0,4,0,2,0,2,64,1,,1,4,,1,2,0,,3,0,,3,4,3,uln4i2w2
+Road Pricing,134,j4sbb0ov,169,169,A_Planet3_ES,End,11:34.4,1,ES,92,1,0,0,,1,2,2,0,82,0,,0,6,,1,0,0,,3,1,,3,5,3,uln4i2w2
+Social Norm,135,hdvmjrl0,169,169,A_Planet3_ES,End,12:47.5,1,ES,156,1,2,,4,0,2,2,2,64,1,,0,2,,1,3,3,,1,3,,3,4,3,uln4i2w2
+Baseline,136,ygq2rbch,169,169,A_Planet3_ES,End,46:32.4,1,ES,81,1,0,1,,0,2,2,0,6,0,,0,0,,0,3,3,1,0,1,,3,3,2,uln4i2w2
+Pollution,137,iua0kr3o,169,169,A_Planet3_ES,End,26:11.6,1,ES,82,1,2,,0,2,2,2,0,8,0,,0,2,,0,2,2,,0,1,,1,4,4,uln4i2w2
+Public Services,138,g0rid3nm,169,169,A_Planet3_ES,End,26:13.3,1,ES,87,1,1,0,4,2,1,2,2,87,6,,0,5,,1,0,0,,2,1,,2,4,4,uln4i2w2
+Road Pricing,139,ha59x5xj,169,169,A_Planet3_ES,End,26:14.0,1,ES,94,1,1,0,4,0,2,2,0,5,0,,0,0,,1,0,1,1,3,1,,3,4,3,uln4i2w2
+Social Norm,140,nxuvgudh,169,169,A_Planet3_ES,End,40:52.7,1,ES,84,1,0,0,,2,2,2,0,85,0,,0,0,,1,1,0,1,2,2,,3,4,4,uln4i2w2
+Baseline,141,wat5ykjw,169,169,A_Planet3_ES,End,22:44.1,1,ES,8,1,1,0,2,0,2,0,2,73,1,,0,0,,2,2,2,1,3,2,,3,4,3,uln4i2w2
+Pollution,142,cg7odc0d,169,169,A_Planet3_ES,End,54:30.1,1,ES,81,1,0,0,,0,2,1,2,64,1,,0,4,,0,0,1,,0,0,,3,4,2,uln4i2w2
+Public Services,143,jf155q1k,169,169,A_Planet3_ES,End,04:56.7,1,ES,95,1,2,,4,1,2,2,0,8,0,,0,3,,2,1,2,,1,0,,3,5,3,uln4i2w2
+Road Pricing,144,ualit105,169,169,A_Planet3_ES,End,31:30.0,1,ES,94,1,0,0,,1,0,1,0,94,0,,0,0,,1,0,1,1,2,0,,1,3,4,uln4i2w2
+Baseline,146,dli4uco2,169,169,A_Planet3_ES,End,58:57.1,1,ES,98,1,1,1,2,0,2,2,0,81,0,,0,2,,0,1,1,,3,1,,4,6,3,uln4i2w2
+Pollution,147,k32enl63,169,169,A_Planet3_ES,End,16:19.5,1,ES,99,1,0,1,,1,0,1,2,64,1,,0,0,,0,1,2,1,2,0,,4,5,2,uln4i2w2
+Public Services,148,al9l66sd,169,169,A_Planet3_ES,End,13:01.0,1,ES,83,0,1,1,4,0,2,2,2,64,1,,2,4,,0,2,0,,2,0,,2,5,4,uln4i2w2
+Road Pricing,149,xn9ipvip,169,169,A_Planet3_ES,End,54:00.6,1,ES,44,1,1,0,0,1,2,2,0,74,0,,0,2,,0,2,1,,1,0,,3,4,3,uln4i2w2
+Social Norm,150,p5anjbks,169,169,A_Planet3_ES,End,45:26.7,1,ES,78,1,0,1,,0,0,1,2,73,1,,0,0,,1,0,2,1,4,1,,1,4,3,uln4i2w2
+Baseline,151,pyvwc9dp,169,169,A_Planet3_ES,End,57:13.0,1,ES,143,1,0,1,,2,2,2,0,43,2,,0,0,,2,1,1,1,2,2,,4,4,3,uln4i2w2
+Pollution,152,ednmwqsq,169,169,A_Planet3_ES,End,07:55.2,1,ES,72,1,1,1,1,2,2,2,2,121,1,,0,0,,2,0,1,1,1,0,,1,4,4,uln4i2w2
+Public Services,153,kxuu2bs4,169,169,A_Planet3_ES,End,56:40.5,1,ES,166,1,1,1,0,0,0,0,2,143,6,,2,8,,2,0,1,1,2,1,,2,3,2,uln4i2w2
+Road Pricing,154,h8f8w5um,169,169,A_Planet3_ES,End,56:14.4,1,ES,81,1,0,1,,0,1,1,0,6,5,,0,4,,2,1,1,,0,0,,3,4,3,uln4i2w2
+Social Norm,155,yucwbaou,169,169,A_Planet3_ES,End,30:09.2,1,ES,89,1,1,1,4,2,2,2,0,84,2,,0,3,,0,2,1,,0,0,,1,4,4,uln4i2w2
+Baseline,156,n80pv3ck,169,169,A_Planet3_ES,End,01:31.0,1,ES,64,1,0,0,,0,2,2,0,92,0,,0,3,,0,2,0,,0,1,,2,4,4,uln4i2w2
+Pollution,157,7nlvytby,169,169,A_Planet3_ES,End,01:03.4,1,ES,17,0,2,,3,2,1,2,5,5,3,,3,3,,0,0,3,,4,3,,6,6,4,uln4i2w2
+Public Services,158,m9zvgyzs,169,169,A_Planet3_ES,End,49:34.4,1,ES,130,1,1,1,4,2,2,2,2,83,1,,1,2,,1,2,1,,0,0,,3,4,3,uln4i2w2
+Road Pricing,159,b2j3paqm,169,169,A_Planet3_ES,End,45:18.4,1,ES,6,1,2,,4,2,1,0,2,88,1,,0,2,,1,0,0,,2,1,,4,5,2,uln4i2w2
+Social Norm,160,vdln2n3p,169,169,A_Planet3_ES,End,04:09.9,1,ES,57,1,1,1,4,0,2,2,2,57,6,,2,5,,1,0,1,,2,0,,2,4,3,uln4i2w2
+Baseline,161,u4g1gko4,169,169,A_Planet3_ES,End,32:30.2,1,ES,81,1,2,,4,2,2,2,2,90,2,,0,4,,0,1,3,,3,1,,2,4,4,uln4i2w2
+Pollution,162,raou7epo,169,169,A_Planet3_ES,End,27:43.7,1,ES,80,0,1,0,4,2,2,2,2,64,1,,1,2,,1,0,0,,4,2,,4,5,2,uln4i2w2
+Public Services,163,rvot49f7,169,169,A_Planet3_ES,End,06:55.6,1,ES,176,1,1,0,0,0,2,2,2,81,7,Ir al psicólogo,2,4,,0,2,3,,2,0,,3,4,4,uln4i2w2
+Social Norm,165,tw781squ,169,169,A_Planet3_ES,End,18:33.0,1,ES,88,1,0,0,,2,2,2,2,73,1,,0,0,,1,1,2,1,4,2,,3,5,3,uln4i2w2
+Baseline,166,8yy8lbem,169,169,A_Planet3_ES,End,36:09.2,1,ES,87,1,1,1,4,0,2,2,2,90,0,,0,0,,1,1,2,1,4,2,,1,4,3,uln4i2w2
+Pollution,167,2laod51g,169,169,A_Planet3_ES,End,14:05.9,1,ES,176,1,1,1,4,0,2,2,2,99,0,,0,0,,1,1,3,0,1,1,,1,4,4,uln4i2w2
+Public Services,168,eyjtzeox,169,169,A_Planet3_ES,End,48:53.3,1,ES,88,1,1,1,4,0,2,2,2,73,1,,0,4,,1,2,0,,10,,No disponibilidad de coche y muy lejos para ir en coche o andando,4,4,3,uln4i2w2
+Road Pricing,169,7z0h7kdw,169,169,A_Planet3_ES,End,14:28.5,1,ES,176,1,0,1,,0,2,2,1,64,0,,0,0,,0,1,3,0,4,2,,1,4,3,uln4i2w2
+Social Norm,170,ndxtxxft,169,169,A_Planet3_ES,End,27:20.5,1,ES,85,1,1,1,4,2,2,2,0,81,0,,0,3,,0,1,1,,0,0,,2,4,3,uln4i2w2
+Baseline,171,dqw6kryc,169,169,A_Planet3_ES,End,30:16.3,1,ES,78,1,1,0,4,1,2,2,0,48,0,,0,0,,1,1,2,1,4,2,,2,4,3,uln4i2w2
+Pollution,172,lxk5jg4h,169,169,A_Planet3_ES,End,13:33.0,1,ES,78,0,1,1,4,0,1,0,2,73,1,,0,4,,0,2,1,,0,1,,3,4,3,uln4i2w2
+Public Services,173,7gij7cjw,169,169,A_Planet3_ES,End,14:11.7,1,ES,73,0,2,,4,1,2,2,2,91,6,,2,4,,1,1,1,,3,1,,2,4,3,uln4i2w2
+Road Pricing,174,2k427npd,169,169,A_Planet3_ES,End,38:40.9,1,ES,84,1,1,0,4,1,2,2,0,81,0,,0,0,,2,0,2,1,3,1,,4,5,3,uln4i2w2
+Social Norm,175,2yc6rfw3,169,169,A_Planet3_ES,End,28:27.5,1,ES,139,1,1,1,4,0,2,2,0,93,0,,0,2,,0,1,0,,3,1,,4,5,3,uln4i2w2
+Baseline,176,gymz3qag,169,169,A_Planet3_ES,End,29:57.8,1,ES,91,1,1,1,4,1,2,2,2,64,1,,0,4,,1,2,1,,0,0,,3,5,5,uln4i2w2
+Pollution,177,dejwknyd,169,169,A_Planet3_ES,End,16:56.8,1,ES,93,1,1,0,4,0,2,2,0,162,0,,0,1,,0,1,3,1,2,2,,6,5,3,uln4i2w2
+Public Services,178,bzwht5ou,169,169,A_Planet3_ES,End,04:37.5,1,ES,6,1,1,1,2,1,2,2,2,73,1,,1,2,,2,0,0,,3,0,,3,5,5,uln4i2w2
+Road Pricing,179,hsqyb82x,169,169,A_Planet3_ES,End,42:53.3,1,ES,85,0,2,,4,1,2,2,2,73,1,,0,4,,1,3,0,,3,1,,2,4,3,uln4i2w2
+Social Norm,180,k0ws2aur,169,169,A_Planet3_ES,End,00:26.2,1,ES,81,1,0,0,,0,1,2,2,81,0,,0,6,,0,0,0,,2,1,,4,3,4,uln4i2w2
+Baseline,181,2g5n7pyg,169,169,A_Planet3_ES,End,33:25.2,1,ES,6,1,1,0,2,0,2,2,0,82,0,,0,3,,0,2,0,,0,0,,2,5,4,uln4i2w2
+Pollution,182,g48dixz6,169,169,A_Planet3_ES,End,41:41.0,1,ES,91,1,1,2,4,1,2,2,0,111,6,,0,2,,1,3,1,,0,0,,4,5,2,uln4i2w2
+Public Services,183,fwfuqj1n,169,169,A_Planet3_ES,End,50:28.6,1,ES,139,1,0,1,,0,0,2,1,73,1,,1,0,,1,1,2,1,8,0,,3,4,3,uln4i2w2
+Road Pricing,184,gtdje6cr,169,169,A_Planet3_ES,End,19:41.0,1,ES,92,1,0,0,,1,1,1,0,85,0,,0,0,,1,1,1,1,4,1,,1,5,4,uln4i2w2
+Social Norm,185,3eul560y,169,169,A_Planet3_ES,End,14:00.8,1,ES,6,1,1,1,4,0,2,1,0,6,4,,2,0,,2,0,0,1,1,0,,3,4,3,uln4i2w2
+Baseline,186,0cs54xye,169,169,A_Planet3_ES,End,06:59.8,1,ES,80,0,2,,4,2,2,2,0,81,0,,0,3,,0,1,2,,1,0,,2,4,4,uln4i2w2
+Pollution,187,eylqxj71,169,169,A_Planet3_ES,End,34:20.2,1,ES,48,1,1,0,4,0,2,2,2,48,6,,2,6,,1,1,0,,2,1,,3,5,3,uln4i2w2
+Public Services,188,ruyh9n6b,169,169,A_Planet3_ES,End,23:53.9,1,ES,84,1,1,0,4,1,2,2,2,73,1,,0,3,,1,3,0,,0,0,,3,4,3,uln4i2w2
+Road Pricing,189,8pynl7ss,169,169,A_Planet3_ES,End,10:56.7,1,ES,78,1,1,0,4,2,2,2,1,80,6,,1,5,,1,1,1,,3,1,,1,5,4,uln4i2w2
+Social Norm,190,59n20b5h,169,169,A_Planet3_ES,End,27:05.9,1,ES,60,1,1,0,4,2,2,2,2,166,6,,2,0,,2,0,1,1,2,2,,2,4,2,uln4i2w2
+Baseline,191,j2mq41ck,169,169,A_Planet3_ES,End,12:21.9,1,ES,84,1,1,0,0,1,2,2,2,85,1,,0,4,,1,2,3,,0,0,,3,4,4,uln4i2w2
+Pollution,192,1ikxvt4t,169,169,A_Planet3_ES,End,35:12.9,1,ES,81,1,0,0,,0,2,2,5,82,0,,0,0,,1,1,1,1,8,0,,1,3,2,uln4i2w2
+Public Services,193,kmuqcxnd,169,169,A_Planet3_ES,End,42:00.5,1,ES,44,1,0,0,,0,2,2,0,84,0,,0,3,,0,1,0,,2,0,,4,3,3,uln4i2w2
+Road Pricing,194,zzfp66nz,169,169,A_Planet3_ES,End,12:29.1,1,ES,98,1,0,0,,1,2,2,2,88,1,,2,1,,1,0,2,1,0,1,,4,3,3,uln4i2w2
+Social Norm,195,rzj1zkde,169,169,A_Planet3_ES,End,37:10.1,1,ES,64,1,1,1,4,0,2,2,2,81,6,,2,4,,1,1,1,,2,1,,1,4,3,uln4i2w2
+Baseline,196,8h261v8y,169,169,A_Planet3_ES,End,05:13.6,1,ES,81,1,2,,4,1,2,2,2,83,1,,1,5,,2,0,0,,6,0,,2,3,3,uln4i2w2
+Pollution,197,kehx30i1,169,169,A_Planet3_ES,End,27:47.8,1,ES,94,0,1,1,4,2,2,2,2,73,1,,0,4,,0,2,0,,10,,No hay un camino que me ahorre el suficiente tiempo en comparación a los gastos y comodidad,2,4,5,uln4i2w2
+Public Services,198,h954glar,169,169,A_Planet3_ES,End,34:56.3,1,ES,44,0,1,1,4,2,2,2,2,81,0,,0,2,,1,3,0,,0,1,,3,5,4,uln4i2w2
+Road Pricing,199,rf36vzrz,169,169,A_Planet3_ES,End,09:41.9,1,ES,73,1,2,,4,2,2,2,0,81,0,,0,4,,1,2,0,,8,3,,4,5,2,uln4i2w2
+Social Norm,200,zx9q6r8j,169,169,A_Planet3_ES,End,24:48.8,1,ES,81,0,2,,4,0,2,2,2,73,0,,0,2,,2,1,1,,4,2,,5,3,3,uln4i2w2
+Baseline,201,zuchyshq,169,169,A_Planet3_ES,End,38:43.1,1,ES,97,1,0,1,,0,0,1,0,64,0,,0,8,,2,0,1,1,0,0,,4,5,3,uln4i2w2
+Pollution,202,usw0ho0w,169,169,A_Planet3_ES,End,12:36.2,1,ES,64,1,1,0,4,2,2,2,2,64,1,,1,2,,2,0,0,,0,0,,4,3,2,uln4i2w2
+Public Services,203,yg0u2s29,169,169,A_Planet3_ES,End,47:27.5,1,ES,46,0,2,,4,1,2,2,2,64,1,,2,3,,0,3,0,,1,0,,1,4,3,uln4i2w2
+Road Pricing,204,icyy4gj9,169,169,A_Planet3_ES,End,59:55.9,1,ES,45,1,1,1,4,0,1,2,2,73,1,,0,0,,1,2,3,1,4,2,,3,5,4,uln4i2w2
+Social Norm,205,ofovwmcu,169,169,A_Planet3_ES,End,50:24.9,1,ES,89,1,0,1,,2,2,2,2,64,1,,1,0,,1,1,3,1,3,2,,3,5,3,uln4i2w2
+Baseline,206,ej6rauep,169,169,A_Planet3_ES,End,20:55.9,1,ES,73,1,1,1,4,0,1,2,2,82,0,,0,4,,0,3,0,,1,0,,3,4,3,uln4i2w2
+Pollution,207,2jujl8yx,169,169,A_Planet3_ES,End,11:08.7,1,ES,6,1,0,1,,0,2,2,0,83,0,,0,3,,0,1,0,,2,1,,3,5,3,uln4i2w2
+Public Services,208,3zckjiwm,169,169,A_Planet3_ES,End,08:43.6,1,ES,91,1,1,3,2,0,1,2,2,91,7,Lugar de estudio,0,5,,2,0,1,,8,1,,3,4,3,uln4i2w2
+Road Pricing,209,99uvy2a3,169,169,A_Planet3_ES,End,28:05.1,1,ES,57,1,1,0,4,0,2,2,2,64,1,,0,3,,1,1,1,,0,1,,3,4,3,uln4i2w2
+Social Norm,210,1p5o9whu,169,169,A_Planet3_ES,End,23:00.6,1,ES,64,1,0,1,,0,1,1,0,92,0,,0,4,,0,2,1,,0,1,,3,4,4,uln4i2w2
+Baseline,211,4qwckjvh,169,169,A_Planet3_ES,End,09:26.6,1,ES,46,0,1,1,4,0,2,2,2,64,1,,0,2,,1,3,3,,1,0,,4,5,4,uln4i2w2
+Pollution,212,nu61zd7a,169,169,A_Planet3_ES,End,20:42.4,1,ES,81,0,2,,4,0,1,1,2,73,1,,0,4,,0,0,1,,3,1,,3,5,3,uln4i2w2
+Public Services,213,o7sv55mv,169,169,A_Planet3_ES,End,18:55.4,1,ES,90,1,1,1,4,0,2,2,0,79,0,,0,0,,2,0,1,1,8,1,,2,4,3,uln4i2w2
+Road Pricing,214,xb5otfec,169,169,A_Planet3_ES,End,05:40.7,1,ES,176,1,0,0,,0,2,2,0,169,0,,0,4,,0,3,3,,0,0,,1,4,4,uln4i2w2
+Social Norm,215,t0s3r5ft,169,169,A_Planet3_ES,End,55:10.1,1,ES,80,1,0,1,,0,2,2,0,80,0,,0,5,,2,0,0,,8,1,,3,5,3,uln4i2w2
+Baseline,216,3wya37jq,169,169,A_Planet3_ES,End,18:42.8,1,ES,143,1,1,1,4,2,2,2,2,110,1,,1,0,,2,0,1,1,1,1,,4,5,2,uln4i2w2
+Pollution,217,0j0hel02,169,169,A_Planet3_ES,End,08:25.6,1,ES,83,1,1,0,4,0,2,1,2,73,1,,0,3,,0,2,0,,1,0,,2,5,3,uln4i2w2
+Public Services,218,j51480ug,169,169,A_Planet3_ES,End,09:14.7,1,ES,57,1,0,1,,0,1,2,2,73,1,,1,2,,1,2,1,,0,0,,3,4,3,uln4i2w2
+Road Pricing,219,l8vd0017,169,169,A_Planet3_ES,End,07:20.2,1,ES,25,1,0,2,,0,2,2,4,25,4,,2,3,,1,2,4,,3,2,,2,5,2,uln4i2w2
+Social Norm,220,z97sag0o,169,169,A_Planet3_ES,End,35:11.2,1,ES,80,1,2,,0,0,2,2,0,81,6,,3,6,,2,2,0,,7,0,,2,4,3,uln4i2w2
+Baseline,221,xfy4mzya,169,169,A_Planet3_ES,End,55:12.0,1,ES,87,1,0,0,,0,2,2,0,94,0,,0,1,,0,1,2,1,3,2,,3,5,3,uln4i2w2
+Pollution,222,f3cgwwti,169,169,A_Planet3_ES,End,31:45.5,1,ES,46,0,1,1,4,0,2,2,2,73,1,,0,2,,0,1,2,,1,0,,2,5,4,uln4i2w2
+Public Services,223,1e3j5imf,169,169,A_Planet3_ES,End,43:11.6,1,ES,110,1,0,1,,2,1,1,0,81,0,,0,4,,0,1,2,,4,0,,4,3,3,uln4i2w2
+Road Pricing,224,hcvx6gus,169,169,A_Planet3_ES,End,45:41.4,1,ES,89,0,1,1,4,0,2,2,2,64,1,,0,3,,0,2,0,,1,0,,3,5,3,uln4i2w2
+Social Norm,225,8yxizjok,169,169,A_Planet3_ES,End,31:43.3,1,ES,78,1,1,1,4,0,2,2,0,83,0,,0,3,,1,2,0,,6,1,,2,4,3,uln4i2w2
+Baseline,226,j89nbl9l,169,169,A_Planet3_ES,End,15:27.8,1,ES,80,0,2,,4,1,2,1,2,83,1,,0,3,,0,1,1,,2,0,,3,4,5,uln4i2w2
+Pollution,227,uj5049u6,169,169,A_Planet3_ES,End,53:46.0,1,ES,92,1,1,1,4,2,2,1,0,5,0,,0,4,,0,2,1,,0,0,,3,5,3,uln4i2w2
+Public Services,228,glhk1k70,169,169,A_Planet3_ES,End,00:38.1,1,ES,86,1,0,0,,1,2,1,4,92,4,,2,0,,1,0,1,1,2,1,,3,4,2,uln4i2w2
+Road Pricing,229,xxzn41d8,169,169,A_Planet3_ES,End,12:21.8,1,ES,64,0,1,1,4,0,1,2,1,64,4,,2,5,,1,0,3,,6,0,,2,1,4,uln4i2w2
+Social Norm,230,kyzxxm4v,169,169,A_Planet3_ES,End,21:09.5,1,ES,81,1,1,0,4,0,2,2,0,83,0,,2,3,,0,2,0,,4,1,,3,4,3,uln4i2w2
+Baseline,231,2yh3thgx,169,169,A_Planet3_ES,End,19:09.8,1,ES,143,1,0,0,,0,2,2,2,64,1,,0,4,,0,3,2,,0,2,,4,5,2,uln4i2w2
+Pollution,232,jmiiv7oa,169,169,A_Planet3_ES,End,15:15.4,1,ES,87,1,1,0,4,0,2,1,2,87,6,,3,2,,2,0,1,,5,1,,3,4,3,uln4i2w2
+Public Services,233,qgz4zlpi,169,169,A_Planet3_ES,End,45:52.2,1,ES,91,1,1,1,4,0,2,2,0,82,0,,0,4,,1,1,0,,10,,La mejor opción es ir en tren y es la que actualmente uso. No hay una alternativa que tenga menos tiempo de duración,4,5,3,uln4i2w2
+Road Pricing,234,zyp5jsph,169,169,A_Planet3_ES,End,35:46.9,1,ES,82,1,1,1,2,0,2,2,5,98,0,,0,0,,2,1,1,1,3,2,,3,1,3,uln4i2w2
+Social Norm,235,3nruygk4,169,169,A_Planet3_ES,End,21:17.6,1,ES,64,1,1,1,4,0,2,2,2,73,1,,0,2,,1,0,1,,4,1,,2,5,3,uln4i2w2
+Baseline,236,4e3evrex,169,169,A_Planet3_ES,End,10:26.9,1,ES,89,1,1,1,4,0,2,2,2,64,1,,0,3,,0,2,0,,4,1,,3,5,3,uln4i2w2
+Pollution,237,dtsnstom,169,169,A_Planet3_ES,End,02:10.7,1,ES,196,1,0,0,,0,2,0,5,21,4,,0,0,,1,0,1,1,8,1,,2,3,4,uln4i2w2
+Public Services,238,qczkxony,169,169,A_Planet3_ES,End,26:08.5,1,ES,88,1,1,1,4,2,2,2,2,64,1,,1,3,,1,2,2,,0,0,,3,4,3,uln4i2w2
+Road Pricing,239,l32fjokr,169,169,A_Planet3_ES,End,42:07.1,1,ES,81,1,1,1,4,2,2,2,2,87,1,,0,2,,1,0,0,,3,0,,4,4,3,uln4i2w2
+Social Norm,240,43ka5pq8,169,169,A_Planet3_ES,End,38:14.4,1,ES,139,1,1,1,4,0,2,2,0,139,0,,2,2,,2,0,0,,0,0,,1,4,3,uln4i2w2
+Baseline,241,31icrenz,169,169,A_Planet3_ES,End,56:07.9,1,ES,64,1,1,1,4,0,0,2,2,73,1,,0,8,,2,0,1,1,2,0,,2,4,3,uln4i2w2
+Pollution,242,8wlnfqgh,169,169,A_Planet3_ES,End,13:15.2,1,ES,95,0,2,,4,2,2,2,3,78,4,,1,2,,0,1,1,,1,2,,1,5,4,uln4i2w2
+Public Services,243,w2ri2ul8,169,169,A_Planet3_ES,End,33:04.8,1,ES,143,1,0,0,,0,0,2,2,73,1,,0,0,,0,2,3,1,4,2,,1,5,4,uln4i2w2
+Road Pricing,244,1gvw8q3t,169,169,A_Planet3_ES,End,07:12.8,1,ES,82,1,1,0,4,0,2,2,5,81,4,,2,3,,1,0,0,,6,0,,4,3,3,uln4i2w2
+Social Norm,245,y7eawb8n,169,169,A_Planet3_ES,End,52:40.5,1,ES,91,1,1,2,4,2,2,2,2,73,1,,1,4,,1,0,0,,0,1,,3,5,2,uln4i2w2
+Baseline,246,b9pu3vjx,169,169,A_Planet3_ES,End,45:12.3,1,ES,139,1,1,0,4,1,2,1,2,73,1,,0,2,,0,3,3,,4,0,,3,4,2,uln4i2w2
+Pollution,247,rfapg1hp,169,169,A_Planet3_ES,End,45:18.0,1,ES,94,1,2,,4,0,2,2,0,85,5,,2,2,,2,0,0,,3,0,,2,4,3,uln4i2w2
+Public Services,248,675xccow,169,169,A_Planet3_ES,End,09:45.2,1,ES,81,1,0,1,,1,2,1,1,82,6,,0,3,,0,1,1,,0,0,,1,4,4,uln4i2w2
+Road Pricing,249,x5lr3yks,169,169,A_Planet3_ES,End,29:24.4,1,ES,10,0,1,3,3,2,1,1,4,8,3,,1,3,,2,1,0,,5,3,,6,6,4,uln4i2w2
+Social Norm,250,absgb5uj,169,169,A_Planet3_ES,End,16:53.2,1,ES,6,1,0,2,,0,2,2,0,83,0,,0,3,,2,1,0,,2,1,,2,5,3,uln4i2w2
+Baseline,251,1d0poo9h,169,169,A_Planet3_ES,End,39:42.8,1,ES,95,1,1,0,4,0,2,2,2,95,0,,0,5,,2,0,0,,2,0,,1,4,3,uln4i2w2
+Pollution,252,xiq7fltm,169,169,A_Planet3_ES,End,15:22.4,1,ES,99,1,1,1,4,2,2,2,2,73,1,,0,2,,1,3,3,,0,3,,4,5,3,uln4i2w2
+Public Services,253,iv701z17,169,169,A_Planet3_ES,End,23:21.7,1,ES,64,1,1,0,4,2,2,2,0,5,0,,0,3,,1,3,0,,0,1,,4,3,3,uln4i2w2
+Road Pricing,254,kevmuj1h,169,169,A_Planet3_ES,End,49:13.1,1,ES,78,1,1,0,4,1,2,0,2,73,1,,1,0,,1,1,1,1,4,2,,5,3,3,uln4i2w2
+Social Norm,255,tf5jk4n7,169,169,A_Planet3_ES,End,05:30.0,1,ES,91,1,1,1,4,2,0,1,2,92,0,,0,3,,0,0,0,,8,0,,3,4,2,uln4i2w2
+Baseline,256,7ezg3uk8,169,169,A_Planet3_ES,End,22:10.0,1,ES,90,0,1,0,4,2,2,2,1,93,0,,0,2,,2,2,1,,3,2,,4,3,5,uln4i2w2
+Pollution,257,9iqp2x07,169,169,A_Planet3_ES,End,56:36.8,1,ES,80,1,1,1,4,0,2,2,2,4,1,,0,4,,1,3,1,,0,0,,3,5,3,uln4i2w2
+Public Services,258,vywa3ivw,169,169,A_Planet3_ES,End,38:30.5,1,ES,21,1,0,0,,1,2,1,2,64,1,,0,0,,1,1,1,1,10,,"Tomar el transporte público significaría dedicar demasiado tiempo, mucho más del que tengo disponible, a desplazarme al destino en cuestión (más la vuelta), y de hecho adquirí el vehículo con el que viaje para realizar este trayecto en cuestión.",3,4,2,uln4i2w2
+Road Pricing,259,n0j1ad5p,169,169,A_Planet3_ES,End,10:56.6,1,ES,88,1,1,1,4,1,2,2,1,78,7,Intercambiador Plza. Elíptica,0,3,,0,0,1,,10,,Metro es la mejor.,3,2,3,uln4i2w2
+Social Norm,260,34wr3ho4,169,169,A_Planet3_ES,End,49:01.5,1,ES,81,1,1,1,4,1,2,2,2,73,1,,0,4,,1,1,0,,3,1,,3,4,3,uln4i2w2
+Baseline,261,vshbi7qp,169,169,A_Planet3_ES,End,08:52.4,1,ES,88,1,0,1,,2,2,2,0,94,0,,0,3,,0,1,1,,5,2,,2,4,3,uln4i2w2
+Pollution,262,xibdhyj2,169,169,A_Planet3_ES,End,57:03.9,1,ES,78,0,2,,4,2,2,2,0,83,0,,0,3,,0,1,0,,4,1,,3,5,2,uln4i2w2
+Public Services,263,9xuydnwh,169,169,A_Planet3_ES,End,35:19.7,1,ES,86,1,1,0,4,0,2,2,2,64,1,,0,4,,0,3,0,,0,1,,2,4,5,uln4i2w2
+Road Pricing,264,dfiaeh3q,169,169,A_Planet3_ES,End,00:43.8,1,ES,14,0,2,,4,2,2,0,2,10,5,,2,1,,2,4,3,1,7,1,,6,6,5,uln4i2w2
+Social Norm,265,cqigxlf9,169,169,A_Planet3_ES,End,23:54.9,1,ES,86,1,1,0,4,2,2,2,2,86,6,,2,5,,2,0,0,,2,1,,3,5,3,uln4i2w2
+Baseline,266,46eh1004,169,169,A_Planet3_ES,End,11:20.9,1,ES,80,0,2,,4,1,2,2,2,73,0,,0,2,,2,2,0,,3,2,,4,5,3,uln4i2w2
+Pollution,267,owh0yuj3,169,169,A_Planet3_ES,End,07:37.3,1,ES,6,1,0,0,,0,0,2,0,64,1,,0,0,,1,0,1,1,6,0,,3,5,2,uln4i2w2
+Public Services,268,zw6h1g9v,169,169,A_Planet3_ES,End,21:49.2,1,ES,91,1,0,1,,1,2,2,0,143,0,,0,2,,0,3,2,,0,0,,3,5,3,uln4i2w2
+Road Pricing,269,lhana9pt,169,169,A_Planet3_ES,End,45:34.6,1,ES,64,1,0,0,,0,2,0,0,78,0,,0,4,,1,1,0,,0,1,,1,5,4,uln4i2w2
+Social Norm,270,7s5p6atu,169,169,A_Planet3_ES,End,39:59.8,1,ES,84,1,1,1,4,2,2,2,2,64,1,,0,4,,1,3,0,,2,0,,3,5,3,uln4i2w2
+Baseline,271,vw95jws5,169,169,A_Planet3_ES,End,23:38.0,1,ES,130,1,0,1,,0,2,2,0,5,0,,0,0,,0,2,3,1,3,2,,3,4,2,uln4i2w2
+Pollution,272,a6r2q1fk,169,169,A_Planet3_ES,End,41:23.3,1,ES,87,1,1,0,4,2,2,2,2,87,4,,2,5,,2,0,0,,2,0,,3,4,3,uln4i2w2
+Public Services,273,w9soq5rw,169,169,A_Planet3_ES,End,41:35.4,1,ES,45,1,1,1,4,1,2,2,4,89,1,,1,2,,1,3,0,,4,0,,2,4,3,uln4i2w2
+Road Pricing,274,1e36dal6,169,169,A_Planet3_ES,End,01:59.2,1,ES,73,0,2,,4,1,1,0,4,6,5,,1,4,,1,0,0,,3,1,,3,4,3,uln4i2w2
+Social Norm,275,f4eq8z4d,169,169,A_Planet3_ES,End,35:09.3,1,ES,80,1,0,0,,1,1,2,1,84,0,,0,3,,0,2,2,,8,0,,4,5,2,uln4i2w2
+Baseline,276,3mcrze9h,169,169,A_Planet3_ES,End,36:10.7,1,ES,92,1,0,0,,0,0,2,4,81,6,,2,8,,1,1,2,1,6,1,,4,5,3,uln4i2w2
+Pollution,277,ru77h66k,169,169,A_Planet3_ES,End,08:05.2,1,ES,21,1,1,0,4,0,2,2,2,73,1,,1,0,,1,0,2,1,1,1,,2,4,5,uln4i2w2
+Public Services,278,mqzxt6s3,169,169,A_Planet3_ES,End,13:37.5,1,ES,12,1,1,0,4,0,1,2,5,87,0,,0,4,,0,2,1,,2,1,,1,5,3,uln4i2w2
+Road Pricing,279,ql1twpop,169,169,A_Planet3_ES,End,29:05.9,1,ES,80,1,1,2,4,0,2,2,0,80,6,,3,5,,2,1,0,,2,1,,3,5,3,uln4i2w2
+Social Norm,280,49rr85te,169,169,A_Planet3_ES,End,56:27.4,1,ES,64,0,2,,4,0,2,2,2,73,1,,1,3,,1,0,1,,2,0,,3,4,3,uln4i2w2
+Baseline,281,jlo6442n,169,169,A_Planet3_ES,End,58:46.5,1,ES,92,1,0,0,,1,0,1,0,82,0,,0,8,,1,0,1,1,0,1,,4,5,3,uln4i2w2
+Pollution,282,gg8ko6p0,169,169,A_Planet3_ES,End,21:32.5,1,ES,48,1,0,2,,1,1,1,0,169,0,,0,0,,0,1,2,1,4,2,,1,4,4,uln4i2w2
+Public Services,283,7r44bqmz,169,169,A_Planet3_ES,End,29:09.1,1,ES,5,0,1,0,2,2,0,2,5,6,6,,1,4,,0,4,5,,7,3,,6,6,2,uln4i2w2
+Road Pricing,284,5opullri,169,169,A_Planet3_ES,End,37:01.4,1,ES,86,1,0,0,,0,2,2,2,64,1,,0,4,,1,3,0,,3,0,,3,4,3,uln4i2w2
+Social Norm,285,2ckjnw69,169,169,A_Planet3_ES,End,29:55.4,1,ES,98,1,2,,4,1,2,2,2,79,1,,0,3,,0,2,1,,0,0,,1,4,4,uln4i2w2
+Baseline,286,dq5vdyxt,169,169,A_Planet3_ES,End,22:01.0,1,ES,88,1,1,0,4,1,2,2,0,82,0,,0,3,,0,1,1,,2,0,,3,4,2,uln4i2w2
+Pollution,287,24zavgfb,169,169,A_Planet3_ES,End,56:01.3,1,ES,90,1,1,1,4,1,1,1,0,64,5,,3,0,,1,1,1,1,4,0,,3,4,4,uln4i2w2
+Public Services,288,ac5dpxqa,169,169,A_Planet3_ES,End,12:08.7,1,ES,6,1,0,1,,2,2,2,0,84,0,,0,2,,1,2,0,,0,0,,2,5,4,uln4i2w2
+Road Pricing,289,ghlcrg8a,169,169,A_Planet3_ES,End,21:52.7,1,ES,87,1,1,1,4,1,2,2,2,73,1,,0,4,,1,2,0,,2,0,,3,4,5,uln4i2w2
+Baseline,291,mmxp1r7r,169,169,A_Planet3_ES,End,11:57.9,1,ES,73,1,1,0,4,0,2,2,2,73,1,,0,5,,2,0,0,,5,0,,4,5,5,uln4i2w2
+Pollution,292,rb5hqtd2,169,169,A_Planet3_ES,End,26:40.7,1,ES,88,1,2,,4,2,2,1,2,73,1,,2,4,,0,2,0,,2,0,,2,4,3,uln4i2w2
+Public Services,293,0msu1j7j,169,169,A_Planet3_ES,End,07:53.3,1,ES,86,1,1,1,4,1,0,1,0,85,5,,0,0,,2,0,1,1,2,3,,2,4,3,uln4i2w2
+Road Pricing,294,mb86sa8c,169,169,A_Planet3_ES,End,08:38.8,1,ES,64,1,0,1,,0,2,1,1,80,0,,2,0,,2,0,2,1,2,1,,4,5,4,uln4i2w2
+Social Norm,295,b1dwyumm,169,169,A_Planet3_ES,End,21:28.1,1,ES,6,1,1,0,4,1,2,1,0,81,6,,2,3,,1,0,0,,4,1,,2,5,4,uln4i2w2
+Baseline,296,efidc6vw,169,169,A_Planet3_ES,End,13:00.6,1,ES,130,1,0,0,,2,2,1,2,64,1,,1,0,,2,1,3,1,4,2,,2,5,2,uln4i2w2
+Pollution,297,1csaja5j,169,169,A_Planet3_ES,End,13:48.4,1,ES,87,1,2,,4,1,2,1,2,80,1,,0,2,,1,1,2,,10,,No tengo ruta alternativa que llegue a mi destino,4,3,3,uln4i2w2
+Public Services,298,ek56lqts,169,169,A_Planet3_ES,End,38:10.8,1,ES,91,1,0,0,,1,1,1,0,64,0,,0,0,,1,0,1,1,4,1,,2,3,3,uln4i2w2
+Road Pricing,299,6ns96kzs,169,169,A_Planet3_ES,End,19:38.9,1,ES,73,1,1,1,4,2,2,2,0,81,0,,0,0,,1,1,0,1,4,1,,2,4,4,uln4i2w2
+Social Norm,300,3w25c0m1,169,169,A_Planet3_ES,End,36:00.8,1,ES,98,1,1,2,4,2,2,2,2,64,1,,0,4,,1,1,0,,0,0,,2,4,3,uln4i2w2
+Baseline,301,6i0h5wi4,169,169,A_Planet3_ES,End,28:41.2,1,ES,1,0,0,3,,2,2,0,3,13,6,,0,4,,0,1,3,,4,2,,6,6,4,uln4i2w2
+Pollution,302,ffb96eam,169,169,A_Planet3_ES,End,09:05.3,1,ES,6,1,1,1,4,0,2,2,2,64,1,,1,3,,1,1,3,,0,0,,3,4,2,uln4i2w2
+Public Services,303,i5eg5b0r,169,169,A_Planet3_ES,End,23:23.4,1,ES,6,1,2,,4,1,2,1,0,5,0,,0,3,,0,3,3,,0,0,,1,4,3,uln4i2w2
+Road Pricing,304,uw4hh2jw,169,169,A_Planet3_ES,End,35:02.0,1,ES,81,1,0,0,,1,2,2,0,143,0,,0,2,,0,1,0,,0,1,,2,4,3,uln4i2w2
+Social Norm,305,4jze1n2r,169,169,A_Planet3_ES,End,06:52.1,1,ES,98,1,1,0,4,0,2,2,0,83,0,,0,3,,0,1,0,,0,2,,3,4,4,uln4i2w2
+Baseline,306,zqz532qu,169,169,A_Planet3_ES,End,14:02.4,1,ES,73,1,1,1,4,0,1,1,2,130,1,,1,0,,1,0,1,1,4,2,,2,4,3,uln4i2w2
+Pollution,307,ltvgs7sv,169,169,A_Planet3_ES,End,34:51.5,1,ES,91,1,1,0,2,0,2,1,2,64,1,,0,2,,0,1,2,,0,1,,4,3,2,uln4i2w2
+Public Services,308,gudrr5pm,169,169,A_Planet3_ES,End,50:54.2,1,ES,91,0,2,,4,0,2,2,2,73,1,,0,4,,1,1,0,,1,0,,1,4,3,uln4i2w2
+Road Pricing,309,7cedtfjx,169,169,A_Planet3_ES,End,33:56.6,1,ES,85,1,0,0,,1,2,1,0,81,0,,0,3,,1,1,1,,4,0,,3,2,4,uln4i2w2
+Social Norm,310,we2x75pj,169,169,A_Planet3_ES,End,01:33.6,1,ES,4,0,2,,2,1,1,1,4,2,3,,3,1,,2,2,1,0,10,,cercania,6,6,4,uln4i2w2
+Baseline,311,igkulx8h,169,169,A_Planet3_ES,End,10:17.1,1,ES,21,1,0,1,,0,2,2,2,73,1,,0,0,,1,1,1,1,3,2,,3,5,3,uln4i2w2
+Pollution,312,7i4hi98y,169,169,A_Planet3_ES,End,14:33.7,1,ES,88,1,2,,4,2,2,2,2,82,1,,0,3,,0,0,1,,0,2,,3,4,2,uln4i2w2
+Public Services,313,n9zu972y,169,169,A_Planet3_ES,End,44:02.8,1,ES,21,1,0,0,,2,1,2,2,64,1,,0,0,,2,1,1,1,1,0,,2,5,3,uln4i2w2
+Road Pricing,314,o5y27rxx,169,169,A_Planet3_ES,End,30:22.7,1,ES,64,1,0,0,,2,2,2,0,72,0,,0,0,,2,1,1,1,3,2,,2,4,4,uln4i2w2
+Social Norm,315,fctjiy03,169,169,A_Planet3_ES,End,27:54.4,1,ES,91,1,1,1,4,0,0,2,2,73,1,,0,4,,1,1,0,,8,0,,2,4,3,uln4i2w2
+Baseline,316,vfg2xvzh,169,169,A_Planet3_ES,End,46:20.9,1,ES,83,1,2,,4,2,2,2,2,92,1,,0,5,,1,1,0,,2,0,,6,6,2,uln4i2w2
+Pollution,317,vxy1i9hq,169,169,A_Planet3_ES,End,29:30.6,1,ES,97,0,2,,4,2,2,2,2,85,1,,0,4,,0,3,0,,2,2,,4,4,3,uln4i2w2
+Public Services,318,lufojmvn,169,169,A_Planet3_ES,End,05:05.8,1,ES,90,1,2,,4,0,2,2,0,97,0,,0,3,,1,0,1,,6,2,,5,4,4,uln4i2w2
+Road Pricing,319,bibkwoeq,169,169,A_Planet3_ES,End,36:58.9,1,ES,81,0,2,,4,0,2,0,0,93,0,,0,3,,0,1,0,,2,0,,4,5,3,uln4i2w2
+Social Norm,320,5bujm85s,169,169,A_Planet3_ES,End,32:29.0,1,ES,143,1,2,,4,2,2,2,5,88,6,,1,2,,2,1,1,,4,1,,4,5,2,uln4i2w2
+Baseline,321,5y337x7e,169,169,A_Planet3_ES,End,13:50.6,1,ES,80,1,1,1,4,0,2,2,2,79,0,,0,3,,0,3,0,,0,1,,3,6,3,uln4i2w2
+Pollution,322,p7l67ukz,169,169,A_Planet3_ES,End,17:46.0,1,ES,64,1,0,1,,2,2,2,2,5,1,,1,0,,1,1,5,1,3,1,,4,5,4,uln4i2w2
+Public Services,323,p23no2x0,169,169,A_Planet3_ES,End,53:59.6,1,ES,82,1,0,2,,0,2,1,0,85,0,,0,2,,0,1,0,,0,1,,2,5,4,uln4i2w2
+Road Pricing,324,nbqlqwhw,169,169,A_Planet3_ES,End,50:29.1,1,ES,78,1,1,1,2,1,2,2,2,64,1,,0,2,,1,2,0,,0,0,,3,3,2,uln4i2w2
+Social Norm,325,ald8i2vp,169,169,A_Planet3_ES,End,12:25.2,1,ES,130,1,1,0,4,0,2,2,2,73,1,,0,4,,1,2,0,,0,1,,4,5,3,uln4i2w2
+Baseline,326,ol1saa5z,169,169,A_Planet3_ES,End,21:59.7,1,ES,88,1,0,0,,0,1,1,2,88,1,,0,2,,0,0,1,,5,0,,4,5,2,uln4i2w2
+Public Services,328,0l2vcpx9,169,169,A_Planet3_ES,End,34:26.2,1,ES,91,1,1,2,4,0,2,2,0,94,0,,0,3,,0,1,1,,6,1,,4,5,2,uln4i2w2
+Road Pricing,329,qhy5uo0t,169,169,A_Planet3_ES,End,11:53.4,1,ES,4,0,2,,4,0,2,2,4,81,6,,0,2,,1,2,3,,4,0,,3,4,4,uln4i2w2
+Social Norm,330,80erot00,169,169,A_Planet3_ES,End,10:43.6,1,ES,96,0,2,,4,0,2,2,2,88,1,,0,3,,0,2,0,,2,1,,4,6,3,uln4i2w2
+Baseline,331,hugol910,169,169,A_Planet3_ES,End,09:40.6,1,ES,65,0,1,1,4,0,1,2,2,73,1,,1,4,,1,1,0,,1,0,,2,4,3,uln4i2w2
+Pollution,332,e7h9rbd1,169,169,A_Planet3_ES,End,52:42.8,1,ES,90,0,2,,4,0,2,1,4,82,1,,0,3,,0,1,1,,6,1,,1,4,4,uln4i2w2
+Public Services,333,rsbs1p9q,169,169,A_Planet3_ES,End,24:22.2,1,ES,73,1,1,0,4,0,2,2,0,81,0,,0,4,,0,1,1,,0,0,,2,4,3,uln4i2w2
+Road Pricing,334,q0dydon9,169,169,A_Planet3_ES,End,06:07.5,1,ES,28,1,1,1,4,0,2,2,2,88,5,,2,2,,1,2,1,,0,1,,4,5,3,uln4i2w2
+Social Norm,335,f479a1b0,169,169,A_Planet3_ES,End,39:26.8,1,ES,87,1,1,1,4,1,2,2,2,83,1,,1,3,,1,1,0,,8,1,,3,4,4,uln4i2w2
+Baseline,336,qt2e9f7u,169,169,A_Planet3_ES,End,10:56.7,1,ES,81,1,2,,4,0,2,2,0,98,0,,0,4,,2,1,0,,1,0,,2,4,4,uln4i2w2
+Pollution,337,y12trzda,169,169,A_Planet3_ES,End,51:07.0,1,ES,95,1,1,2,4,0,2,2,0,94,0,,0,3,,0,2,1,,0,0,,2,4,3,uln4i2w2
+Public Services,338,7qxsg9eo,169,169,A_Planet3_ES,End,26:04.9,1,ES,182,1,0,1,,1,1,1,2,12,6,,0,4,,1,3,3,,0,1,,5,4,3,uln4i2w2
+Road Pricing,339,sc4brc2t,169,169,A_Planet3_ES,End,42:29.1,1,ES,88,1,1,0,4,0,2,2,2,81,2,,1,5,,2,1,0,,2,0,,2,4,4,uln4i2w2
+Social Norm,340,8rdefmgd,169,169,A_Planet3_ES,End,09:21.8,1,ES,57,1,0,1,,0,2,0,0,128,0,,0,0,,1,0,1,1,2,2,,2,4,3,uln4i2w2
+Baseline,341,d7s9vzd3,169,169,A_Planet3_ES,End,30:02.1,1,ES,9,0,2,,3,2,2,0,2,2,4,,3,4,,1,0,1,,6,1,,6,6,3,uln4i2w2
+Public Services,343,yr5ven0y,150,169,A_Planet3_ES,A3c,17:32.7,1,ES,89,1,1,1,4,0,2,2,2,81,0,,0,3,,1,1,0,,6,0,,2,4,2,uln4i2w2
+Road Pricing,344,n01qkm8k,169,169,A_Planet3_ES,End,27:11.9,1,ES,143,1,0,1,,0,2,2,0,0,0,,0,0,,0,2,1,1,4,2,,3,4,2,uln4i2w2
+Baseline,1,fa0lgio1,169,169,A_Planet3_ES,End,56:16.8,1,ES,93,1,0,1,,1,1,1,2,88,4,,2,2,,1,1,1,,9,3,,1,5,4,2lf8iml1
+Pollution,2,xmx5q4c1,169,169,A_Planet3_ES,End,24:17.4,1,ES,80,0,2,,4,0,2,2,2,64,1,,0,3,,1,1,2,,4,1,,4,5,4,2lf8iml1
+Public Services,3,c67lysj2,169,169,A_Planet3_ES,End,10:55.0,1,ES,196,1,1,0,4,0,0,1,2,73,1,,1,0,,1,0,1,1,3,1,,3,5,3,2lf8iml1
+Road Pricing,4,q7ay2dyw,169,169,A_Planet3_ES,End,25:28.3,1,ES,83,0,2,,4,0,2,2,2,89,1,,0,2,,1,0,0,,5,0,,3,4,5,2lf8iml1
+Social Norm,5,px6jzykt,169,169,A_Planet3_ES,End,29:47.5,1,ES,85,1,0,1,,0,0,2,0,169,0,,0,0,,2,0,2,1,2,2,,1,3,4,2lf8iml1
+Baseline,6,e40ivckh,169,169,A_Planet3_ES,End,30:39.8,1,ES,93,1,1,1,4,1,2,1,0,169,0,,0,4,,1,1,2,,0,1,,3,4,3,2lf8iml1
+Pollution,7,pqshn95a,169,169,A_Planet3_ES,End,29:17.1,1,ES,96,1,1,0,4,0,2,2,2,96,5,,2,5,,2,0,0,,6,0,,4,5,5,2lf8iml1
+Public Services,8,3yqq014n,169,169,A_Planet3_ES,End,04:59.6,1,ES,85,1,1,2,4,0,2,2,0,81,0,,0,3,,1,2,1,,4,1,,2,4,3,2lf8iml1
+Road Pricing,9,lmax1dnp,169,169,A_Planet3_ES,End,14:20.0,1,ES,64,1,0,0,,1,2,2,0,81,0,,0,4,,0,2,2,,10,,"podria ir en coche pero tardaria el mismo tiempo, me gastaría el mismo dinero o mas, y contaminaria mas",3,4,3,2lf8iml1
+Social Norm,10,uz6r7y1o,169,169,A_Planet3_ES,End,53:11.4,1,ES,83,0,1,0,4,0,2,2,2,64,1,,0,3,,1,2,0,,1,0,,3,5,2,2lf8iml1
+Baseline,11,5poonmd4,169,169,A_Planet3_ES,End,12:50.2,1,ES,81,1,0,0,,0,2,2,0,14,0,,0,0,,1,1,1,1,2,2,,4,5,2,2lf8iml1
+Pollution,12,p62frwui,169,169,A_Planet3_ES,End,27:53.3,1,ES,94,0,1,2,2,1,1,1,0,85,0,,0,2,,1,1,1,,5,0,,4,5,3,2lf8iml1
+Road Pricing,14,z1wokq82,169,169,A_Planet3_ES,End,12:24.4,1,ES,73,1,0,1,,1,1,1,1,64,0,,0,0,,1,1,3,1,3,0,,3,5,3,2lf8iml1
+Social Norm,15,kst6pwde,169,169,A_Planet3_ES,End,37:29.6,1,ES,6,1,2,,4,0,2,2,1,6,0,,0,3,,1,0,0,,5,1,,3,1,3,2lf8iml1
+Baseline,16,n7d17j2o,169,169,A_Planet3_ES,End,41:52.2,1,ES,14,0,1,0,0,0,2,1,2,81,1,,1,2,,0,1,3,,1,0,,3,3,2,2lf8iml1
+Pollution,17,nh0e0dxo,169,169,A_Planet3_ES,End,04:15.7,1,ES,39,1,0,0,,0,2,2,0,81,2,,0,0,,0,2,3,1,4,2,,4,5,2,2lf8iml1
+Public Services,18,az8sbz33,169,169,A_Planet3_ES,End,06:36.3,1,ES,95,0,2,,4,1,2,1,2,73,1,,1,4,,1,1,0,,2,1,,3,4,3,2lf8iml1
+Road Pricing,19,mfl4uw7h,169,169,A_Planet3_ES,End,04:04.0,1,ES,64,1,1,0,4,0,2,2,2,81,6,,2,4,,1,1,0,,2,1,,4,5,3,2lf8iml1
+Social Norm,20,hz14r7oj,169,169,A_Planet3_ES,End,38:47.0,1,ES,92,1,1,1,4,0,2,0,0,82,0,,0,5,,2,1,0,,6,0,,3,5,3,2lf8iml1
+Pollution,22,mchqhv52,169,169,A_Planet3_ES,End,16:17.0,1,ES,139,0,1,2,4,0,1,1,2,64,1,,0,2,,0,1,0,,0,1,,4,5,3,2lf8iml1
+Public Services,23,zb32d88s,169,169,A_Planet3_ES,End,59:02.9,1,ES,72,1,1,1,4,2,2,2,0,72,0,,0,4,,0,3,0,,0,1,,2,4,3,2lf8iml1
+Road Pricing,24,oyol3873,169,169,A_Planet3_ES,End,45:02.2,1,ES,88,1,1,2,4,2,2,2,1,73,1,,0,0,,2,1,4,1,2,2,,2,5,3,2lf8iml1
+Social Norm,25,fuwhzhca,169,169,A_Planet3_ES,End,07:23.4,1,ES,139,1,1,0,0,0,2,2,2,73,1,,0,4,,1,3,0,,0,0,,4,4,2,2lf8iml1
+Baseline,26,kq4x3e9z,169,169,A_Planet3_ES,End,02:37.4,1,ES,89,1,1,2,4,0,2,2,2,4,1,,0,0,,1,1,2,1,4,2,,3,5,2,2lf8iml1
+Pollution,27,zbdm1uut,169,169,A_Planet3_ES,End,04:32.6,1,ES,143,1,0,0,,1,2,2,2,169,0,,0,4,,0,3,2,,0,0,,3,4,3,2lf8iml1
+Public Services,28,bgot6tf1,169,169,A_Planet3_ES,End,28:18.2,1,ES,121,1,2,,1,2,2,2,0,81,7,Ocio,1,4,,1,1,3,,0,0,,1,5,4,2lf8iml1
+Road Pricing,29,yve5slih,169,169,A_Planet3_ES,End,32:22.8,1,ES,73,1,2,,4,1,2,2,2,81,6,,3,3,,1,2,0,,0,0,,2,4,3,2lf8iml1
+Social Norm,30,m9i0j1z8,169,169,A_Planet3_ES,End,03:15.4,1,ES,81,1,1,0,2,1,2,2,0,81,0,,0,1,,2,0,4,1,3,2,,3,5,2,2lf8iml1
+Baseline,31,6zltsyae,169,169,A_Planet3_ES,End,03:26.6,1,ES,81,1,1,0,4,0,1,2,0,5,0,,0,0,,0,2,2,1,3,2,,1,4,4,2lf8iml1
+Pollution,32,knvtxixl,169,169,A_Planet3_ES,End,58:47.6,1,ES,96,0,2,,0,2,2,2,0,12,0,,1,4,,1,1,2,,2,1,,3,5,2,2lf8iml1
+Public Services,33,wi35em2p,169,169,A_Planet3_ES,End,54:14.7,1,ES,83,0,1,2,2,1,1,1,2,5,3,,1,1,,2,4,1,0,8,0,,4,4,3,2lf8iml1
+Road Pricing,34,35iqfvy9,169,169,A_Planet3_ES,End,14:46.8,1,ES,64,1,1,1,4,2,2,2,2,81,0,,0,4,,0,1,0,,3,1,,1,5,3,2lf8iml1
+Social Norm,35,coa5za4o,169,169,A_Planet3_ES,End,14:47.4,1,ES,90,1,2,,4,2,2,2,4,81,1,,1,2,,1,0,1,,3,1,,1,4,4,2lf8iml1
+Baseline,36,1dtj1oad,169,169,A_Planet3_ES,End,30:43.7,1,ES,78,1,1,1,4,0,2,2,2,73,1,,0,4,,1,1,0,,0,0,,3,5,3,2lf8iml1
+Pollution,37,mi5e379o,169,169,A_Planet3_ES,End,55:51.2,1,ES,84,1,0,0,,2,2,2,0,82,0,,0,2,,1,1,1,,3,0,,3,5,3,2lf8iml1
+Public Services,38,lbw72pg8,169,169,A_Planet3_ES,End,06:30.0,1,ES,98,0,1,0,4,0,2,2,2,73,1,,0,4,,1,1,0,,3,0,,3,4,3,2lf8iml1
+Road Pricing,39,1qq9pbma,169,169,A_Planet3_ES,End,23:32.0,1,ES,91,1,0,1,,1,2,2,0,92,0,,0,3,,0,0,1,,6,0,,2,4,3,2lf8iml1
+Social Norm,40,6gp7y3ye,169,169,A_Planet3_ES,End,47:14.5,1,ES,64,1,0,0,,0,0,2,2,81,6,,2,4,,1,1,0,,2,1,,3,4,3,2lf8iml1
+Baseline,41,4620ro3l,169,169,A_Planet3_ES,End,08:00.1,1,ES,90,1,2,,0,1,2,1,0,84,0,,0,3,,0,2,0,,2,2,,1,3,4,2lf8iml1
+Pollution,42,2x2js4b1,169,169,A_Planet3_ES,End,07:18.0,1,ES,78,0,1,1,4,0,1,1,0,82,0,,1,4,,1,1,1,,0,0,,2,5,4,2lf8iml1
+Public Services,43,agjjv68b,169,169,A_Planet3_ES,End,06:24.6,1,ES,46,1,0,0,,2,2,2,0,81,0,,0,0,,1,1,1,1,10,,No hay conexión,2,3,2,2lf8iml1
+Road Pricing,44,upf8ed0o,169,169,A_Planet3_ES,End,11:54.7,1,ES,98,1,2,,4,1,2,1,1,130,0,,1,4,,1,2,1,,1,0,,3,5,3,2lf8iml1
+Social Norm,45,sv5rbzw2,169,169,A_Planet3_ES,End,21:59.5,1,ES,86,0,2,,4,1,2,1,2,64,1,,2,3,,0,2,0,,1,0,,3,5,5,2lf8iml1
+Baseline,46,qcbd7hx4,169,169,A_Planet3_ES,End,11:34.9,1,ES,88,1,1,2,4,1,1,1,2,64,1,,2,3,,1,1,0,,4,0,,3,5,2,2lf8iml1
+Pollution,47,22q5t8ym,169,169,A_Planet3_ES,End,28:35.8,1,ES,8,1,0,3,,0,2,2,0,81,0,,0,0,,1,2,3,1,2,2,,4,2,3,2lf8iml1
+Public Services,48,5k6w1v0s,169,169,A_Planet3_ES,End,47:50.8,1,ES,64,1,1,0,4,0,2,1,2,64,1,,2,5,,2,0,0,,7,1,,3,4,3,2lf8iml1
+Road Pricing,49,7q1hvcvw,169,169,A_Planet3_ES,End,43:20.3,1,ES,81,0,2,,4,2,2,2,0,194,0,,0,2,,1,2,1,,2,0,,4,5,2,2lf8iml1
+Social Norm,50,frepaiwn,169,169,A_Planet3_ES,End,35:31.8,1,ES,13,1,1,1,4,0,2,2,2,73,1,,2,2,,1,1,0,,1,0,,2,5,3,2lf8iml1
+Baseline,51,syp06wkt,169,169,A_Planet3_ES,End,07:31.6,1,ES,78,1,1,1,2,1,2,1,0,83,0,,0,2,,2,1,0,,5,0,,3,4,2,2lf8iml1
+Pollution,52,f9jbykzb,169,169,A_Planet3_ES,End,55:23.0,1,ES,13,0,2,,4,2,2,2,1,64,1,,0,2,,1,2,2,,10,,no tengo metro cerca de casa,2,5,4,2lf8iml1
+Public Services,53,rwuy8jm4,169,169,A_Planet3_ES,End,26:41.0,1,ES,8,1,0,1,,2,2,2,0,150,0,,0,0,,2,0,1,1,2,1,,2,4,4,2lf8iml1
+Road Pricing,54,ahvyg7u9,169,169,A_Planet3_ES,End,13:50.2,1,ES,4,0,2,,4,2,2,2,2,10,0,,1,2,,1,2,2,,1,1,,5,3,1,2lf8iml1
+Social Norm,55,75aw7pog,169,169,A_Planet3_ES,End,06:38.5,1,ES,94,1,2,,2,1,2,1,0,150,0,,0,3,,1,1,0,,2,1,,3,4,3,2lf8iml1
+Baseline,56,rpczrw41,169,169,A_Planet3_ES,End,19:25.2,1,ES,121,0,2,,4,2,2,2,4,81,4,,0,4,,0,2,5,,1,0,,5,1,4,2lf8iml1
+Pollution,57,3k4s9wum,169,169,A_Planet3_ES,End,21:49.4,1,ES,65,1,0,0,,2,2,2,0,73,0,,0,0,,0,2,0,1,2,2,,4,5,2,2lf8iml1
+Public Services,58,7ta5e9pr,169,169,A_Planet3_ES,End,51:28.1,1,ES,73,1,0,0,,2,2,2,0,81,0,,0,4,,0,2,1,,0,2,,2,4,5,2lf8iml1
+Road Pricing,59,fk9mggvd,169,169,A_Planet3_ES,End,07:20.1,1,ES,88,1,1,1,4,2,2,2,0,85,0,,0,3,,0,2,1,,0,0,,4,3,3,2lf8iml1
+Social Norm,60,uycpcdrb,169,169,A_Planet3_ES,End,23:44.7,1,ES,97,1,2,,4,1,1,1,0,83,0,,0,3,,0,1,1,,8,0,,2,5,4,2lf8iml1
+Baseline,61,6800e6dn,169,169,A_Planet3_ES,End,21:46.9,1,ES,96,1,0,2,,0,2,2,0,86,0,,0,0,,2,0,0,1,6,1,,3,4,3,2lf8iml1
+Pollution,62,1yk1x5x8,169,169,A_Planet3_ES,End,45:39.9,1,ES,139,1,1,0,2,0,2,2,2,96,1,,0,3,,1,1,0,,0,1,,4,5,3,2lf8iml1
+Public Services,63,838eq5dh,169,169,A_Planet3_ES,End,48:20.0,1,ES,64,0,1,1,4,0,2,2,2,73,6,,2,3,,1,1,0,,2,1,,3,4,3,2lf8iml1
+Road Pricing,64,wv4ulpsv,169,169,A_Planet3_ES,End,38:50.2,1,ES,91,0,1,1,4,0,1,0,0,92,0,,0,3,,0,0,1,,7,0,,1,3,1,2lf8iml1
+Social Norm,65,nzv4fh3l,169,169,A_Planet3_ES,End,58:25.3,1,ES,93,1,1,0,2,2,2,2,2,64,1,,1,0,,1,1,2,1,4,0,,3,4,2,2lf8iml1
+Baseline,66,qfjc5hk1,169,169,A_Planet3_ES,End,05:26.8,1,ES,110,1,0,0,,1,2,1,0,196,5,,2,0,,2,0,1,1,1,1,,3,5,4,2lf8iml1
+Pollution,67,rpudlr27,169,169,A_Planet3_ES,End,26:08.8,1,ES,139,0,2,,4,0,2,1,1,82,0,,0,3,,0,3,1,,1,1,,2,4,3,2lf8iml1
+Public Services,68,wbthyd6j,169,169,A_Planet3_ES,End,18:41.3,1,ES,82,1,0,2,,0,2,2,4,82,4,,1,5,,2,1,0,,3,0,,1,4,4,2lf8iml1
+Road Pricing,69,hfod0wg1,169,169,A_Planet3_ES,End,45:24.2,1,ES,98,0,1,0,4,1,1,1,2,64,1,,0,2,,0,1,1,,3,0,,2,2,3,2lf8iml1
+Baseline,71,d23woyxn,169,169,A_Planet3_ES,End,43:55.3,1,ES,89,0,1,0,4,2,2,2,2,64,1,,0,3,,0,2,0,,0,0,,3,5,4,2lf8iml1
+Pollution,72,7eiez12c,169,169,A_Planet3_ES,End,38:38.9,1,ES,60,1,1,1,4,0,2,2,2,73,1,,0,0,,0,2,3,1,0,0,,2,2,2,2lf8iml1
+Public Services,73,0xs8g5ll,169,169,A_Planet3_ES,End,34:25.7,1,ES,80,1,1,2,4,0,2,2,2,73,1,,1,2,,1,1,0,,3,2,,2,5,3,2lf8iml1
+Road Pricing,74,lotr8ql4,169,169,A_Planet3_ES,End,26:41.9,1,ES,84,1,1,1,4,2,2,2,2,73,1,,0,0,,1,1,1,1,1,0,,3,4,3,2lf8iml1
+Baseline,76,50e2mzzw,169,169,A_Planet3_ES,End,41:36.8,1,ES,191,0,2,,4,2,2,2,2,64,1,,0,2,,2,2,3,,2,0,,5,4,2,2lf8iml1
+Pollution,77,r15j5hvf,169,169,A_Planet3_ES,End,17:45.6,1,ES,6,0,0,0,,0,2,2,4,81,6,,1,3,,1,1,2,,4,1,,2,4,4,2lf8iml1
+Public Services,78,xy0lli8b,169,169,A_Planet3_ES,End,57:27.4,1,ES,99,0,1,0,2,0,2,1,1,130,0,,0,2,,1,1,2,,0,0,,5,2,3,2lf8iml1
+Social Norm,80,47tu19lp,169,169,A_Planet3_ES,End,11:47.1,1,ES,93,0,0,1,,0,2,2,1,93,0,,2,5,,2,0,0,,6,0,,1,4,4,2lf8iml1
+Baseline,81,ms30m19j,169,169,A_Planet3_ES,End,37:28.6,1,ES,88,1,1,1,4,1,2,2,2,130,1,,1,2,,1,0,1,,0,2,,4,5,5,2lf8iml1
+Pollution,82,a27r077p,169,169,A_Planet3_ES,End,35:30.5,1,ES,6,1,1,0,4,0,2,2,2,44,5,,1,2,,1,3,3,,0,0,,3,5,3,2lf8iml1
+Public Services,83,6zolkqhe,169,169,A_Planet3_ES,End,02:35.7,1,ES,81,0,2,,4,1,2,1,2,64,1,,0,4,,1,1,0,,10,,No hay otro transporte público,3,4,2,2lf8iml1
+Road Pricing,84,x3awvd5j,169,169,A_Planet3_ES,End,07:39.3,1,ES,80,1,0,0,,0,2,1,1,169,0,,0,4,,1,3,0,,0,0,,4,5,3,2lf8iml1
+Social Norm,85,ehspbg9y,169,169,A_Planet3_ES,End,37:00.9,1,ES,43,1,0,0,,0,2,2,0,83,0,,0,0,,0,2,2,1,2,2,,3,5,2,2lf8iml1
+Baseline,86,029z3dj5,169,169,A_Planet3_ES,End,27:48.2,1,ES,83,1,1,1,4,2,2,2,2,88,1,,1,5,,2,1,0,,6,0,,1,2,4,2lf8iml1
+Pollution,87,qf73ejh2,169,169,A_Planet3_ES,End,36:02.1,1,ES,84,0,2,,4,0,2,1,1,93,7,Deporte,2,5,,1,1,1,,6,0,,6,4,3,2lf8iml1
+Public Services,88,3483pxq6,169,169,A_Planet3_ES,End,30:15.9,1,ES,82,1,0,2,,0,2,1,3,79,6,,0,0,,2,0,1,1,9,2,,3,4,4,2lf8iml1
+Road Pricing,89,a1y6lpn8,169,169,A_Planet3_ES,End,13:22.1,1,ES,92,0,2,,4,2,2,2,2,83,5,,2,2,,0,1,0,,0,0,,3,4,5,2lf8iml1
+Social Norm,90,v8xoii7u,169,169,A_Planet3_ES,End,06:09.3,1,ES,83,1,2,,4,1,1,2,2,73,1,,1,4,,1,2,0,,2,1,,4,5,2,2lf8iml1
+Baseline,91,0jquzxbb,169,169,A_Planet3_ES,End,06:40.1,1,ES,82,1,1,0,4,2,0,2,0,86,0,,0,8,,1,0,0,1,4,2,,3,5,3,2lf8iml1
+Pollution,92,hta0lh8i,169,169,A_Planet3_ES,End,22:42.6,1,ES,83,1,1,1,4,0,1,1,0,130,0,,0,2,,1,1,0,,0,0,,2,5,3,2lf8iml1
+Public Services,93,cka5nhzf,169,169,A_Planet3_ES,End,38:42.9,1,ES,87,1,1,1,2,1,2,2,2,81,1,,3,3,,2,0,1,,2,1,,2,4,4,2lf8iml1
+Road Pricing,94,0uzpul3x,169,169,A_Planet3_ES,End,06:56.5,1,ES,81,1,0,0,,2,1,2,0,64,0,,0,2,,0,1,0,,3,2,,5,4,1,2lf8iml1
+Social Norm,95,a9anb1bo,169,169,A_Planet3_ES,End,31:13.5,1,ES,44,0,2,,4,2,2,2,0,81,1,,0,2,,1,0,2,,2,0,,5,4,1,2lf8iml1
+Baseline,96,h4b4yim5,29,169,A_Planet2_ES,Choice,24:24.7,1,ES,89,1,1,0,4,0,2,2,2,64,1,,0,2,,0,2,0,,0,0,,4,5,3,2lf8iml1
+Pollution,97,mdprjoeo,169,169,A_Planet3_ES,End,44:24.3,1,ES,91,1,1,0,4,0,2,2,1,99,0,,0,0,,0,2,1,1,4,1,,2,5,4,2lf8iml1
+Public Services,98,mkevhs61,169,169,A_Planet3_ES,End,55:00.7,1,ES,88,1,1,2,4,0,2,1,2,64,1,,0,4,,1,2,0,,3,0,,2,4,5,2lf8iml1
+Road Pricing,99,vrpni1if,169,169,A_Planet3_ES,End,06:46.3,1,ES,78,1,1,1,3,0,2,2,0,73,1,,0,4,,1,2,0,,0,0,,3,4,4,2lf8iml1
+Social Norm,100,gva8pxaw,169,169,A_Planet3_ES,End,12:24.1,1,ES,143,1,1,0,4,0,2,2,2,130,1,,0,0,,1,1,0,1,4,2,,4,5,3,2lf8iml1
+Baseline,101,feimv38g,169,169,A_Planet3_ES,End,11:11.0,1,ES,73,1,2,,4,0,2,2,2,82,5,,2,4,,1,3,5,,2,1,,2,3,3,2lf8iml1
+Public Services,103,9bfpp832,169,169,A_Planet3_ES,End,40:42.9,1,ES,93,0,2,,4,2,2,2,2,64,1,,1,3,,0,3,0,,1,0,,4,5,5,2lf8iml1
+Road Pricing,104,hi7l35rx,169,169,A_Planet3_ES,End,19:09.1,1,ES,110,0,1,0,4,0,2,2,2,48,0,,0,4,,0,2,2,,1,0,,2,5,4,2lf8iml1
+Social Norm,105,lm08pz14,169,169,A_Planet3_ES,End,06:38.0,1,ES,156,0,1,1,4,2,2,2,2,169,1,,0,2,,0,3,0,,0,0,,3,4,2,2lf8iml1
+Social Norm,110,62ij9lb3,169,169,A_Planet3_ES,End,50:16.5,1,ES,5,0,1,1,0,1,2,2,2,11,3,,3,2,,1,2,0,,1,2,,2,2,2,2lf8iml1
+Public Services,18,3xyphd9d,169,169,A_Planet3_ES,End,52:21.5,1,ES,80,0,0,2,,0,2,2,0,78,1,,2,5,,2,0,1,,3,0,,1,3,1,heqbzlzk
+Road Pricing,19,8vk1zygw,168,169,A_Planet3_ES,Comments,27:18.0,1,ES,84,1,0,0,,2,2,2,1,87,0,,0,3,,0,2,0,,0,2,,1,4,4,heqbzlzk
+Pollution,27,si7dyywv,8,169,A_Planet1_ES,B6,40:33.3,1,ES,81,1,1,1,2,0,2,1,0,,,,,,,,,,,,,,,,,heqbzlzk
+Baseline,31,xhy8g2fa,169,169,A_Planet3_ES,End,22:10.5,1,ES,85,1,1,0,4,1,2,2,2,64,1,,1,4,,0,3,4,,0,0,,3,4,3,heqbzlzk
+Public Services,38,taksclxz,1,169,A_Planet1_ES,A1,00:25.3,1,EN,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Road Pricing,44,z0y2qqks,169,169,A_Planet3_ES,End,18:41.1,1,ES,88,1,0,2,,2,2,2,3,83,5,,0,3,,2,0,0,,0,0,,2,2,2,heqbzlzk
+Social Norm,50,r2xgpmov,169,169,A_Planet3_ES,End,32:31.7,1,ES,78,1,2,,4,1,2,1,2,64,1,,1,2,,1,2,0,,4,1,,4,5,3,heqbzlzk
+Public Services,53,wogja272,169,169,A_Planet3_ES,End,14:28.5,1,ES,94,0,2,,1,0,2,1,2,79,0,,0,2,,1,1,2,,0,1,,4,5,3,heqbzlzk
+Public Services,58,1bkml2p1,169,169,A_Planet3_ES,End,10:10.0,1,ES,78,1,0,0,,1,2,0,2,64,1,,0,0,,2,0,3,1,3,1,,6,6,5,heqbzlzk
+Baseline,61,4j4o13qr,169,169,A_Planet3_ES,End,07:02.2,1,ES,98,1,1,1,4,0,2,2,1,81,0,,0,3,,0,2,1,,0,0,,2,4,3,heqbzlzk
+Public Services,68,v7m3sh4r,29,169,A_Planet2_ES,Choice,16:19.6,1,ES,0,1,0,1,,2,2,2,2,0,1,,0,0,,1,0,3,1,0,3,,2,4,4,heqbzlzk
+Social Norm,70,l7g8qcnp,1,169,A_Planet1_ES,A1,21:20.0,1,EN,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Pollution,72,98mud61u,169,169,A_Planet3_ES,End,37:11.6,1,ES,175,1,1,1,0,0,2,2,2,64,1,,0,0,,1,1,3,1,2,2,,3,4,3,heqbzlzk
+Public Services,88,n32txlta,169,169,A_Planet3_ES,End,46:15.9,1,ES,89,0,1,0,4,1,2,2,2,6,1,,0,3,,1,2,0,,4,1,,1,4,4,heqbzlzk
+Baseline,91,lgj0i09t,169,169,A_Planet3_ES,End,59:39.6,1,ES,45,0,1,1,4,2,2,2,2,81,1,,0,2,,1,3,2,,1,3,,4,5,2,heqbzlzk
+Road Pricing,99,3q21hgiu,169,169,A_Planet3_ES,End,20:10.3,1,ES,176,1,1,1,4,0,2,2,2,176,0,,2,0,,2,0,1,1,2,1,,1,4,3,heqbzlzk
+Public Services,103,81n0mejc,169,169,A_Planet3_ES,End,27:33.6,1,ES,90,1,1,1,4,2,2,2,0,83,0,,0,3,,0,2,0,,1,0,,2,5,3,heqbzlzk
+Social Norm,105,7k64m440,2,169,A_Planet1_ES,A2,33:09.5,1,ES,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Public Services,113,pa1gh8mp,169,169,A_Planet3_ES,End,25:41.6,1,ES,95,1,1,1,4,0,2,2,2,73,1,,0,2,,2,2,1,,0,0,,3,5,3,heqbzlzk
+Pollution,122,hs5ulp84,169,169,A_Planet3_ES,End,07:33.0,1,ES,89,1,1,2,4,2,2,2,0,88,0,,0,4,,1,1,1,,8,0,,1,3,3,heqbzlzk
+Social Norm,135,0ohzhbcm,169,169,A_Planet3_ES,End,45:24.9,1,ES,79,0,1,0,4,0,2,2,2,81,1,,0,3,,1,1,0,,2,0,,1,4,3,heqbzlzk
+Social Norm,150,mavrneio,169,169,A_Planet3_ES,End,29:42.2,1,ES,78,1,0,0,,1,2,2,0,73,0,,0,0,,1,1,1,1,4,1,,3,4,3,heqbzlzk
+Public Services,153,617sw78i,169,169,A_Planet3_ES,End,12:23.3,1,ES,81,0,2,,1,0,2,1,1,91,6,,0,5,,1,1,0,,6,0,,2,4,3,heqbzlzk
+Baseline,156,zs8f7x1z,169,169,A_Planet3_ES,End,02:25.4,1,ES,86,0,1,1,4,0,2,2,2,82,0,,0,2,,1,0,1,,5,2,,2,5,3,heqbzlzk
+Social Norm,160,ja19mtsc,168,169,A_Planet3_ES,Comments,50:48.7,1,ES,64,1,2,,4,2,2,2,2,64,1,,0,5,,2,0,0,,7,1,,3,5,3,heqbzlzk
+Social Norm,165,s5sm5g67,169,169,A_Planet3_ES,End,18:04.0,1,ES,84,1,2,,4,2,2,2,0,88,0,,0,9,VTC,1,1,4,,3,0,,3,4,3,heqbzlzk
+Baseline,171,cgkvcf09,1,169,A_Planet1_ES,A1,16:59.6,1,EN,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Public Services,178,wjemszde,169,169,A_Planet3_ES,End,37:27.4,1,ES,89,1,1,1,4,1,2,2,2,64,1,,1,0,,2,0,1,1,2,1,,2,4,3,heqbzlzk
+Pollution,202,a0srau90,169,169,A_Planet3_ES,End,17:36.7,1,ES,98,1,0,2,,2,2,2,0,90,0,,0,3,,1,1,1,,0,2,,4,5,4,heqbzlzk
+Social Norm,210,6hrflglq,169,169,A_Planet3_ES,End,21:36.7,1,ES,78,1,0,0,,0,2,2,2,64,1,,2,2,,1,2,0,,0,1,,4,5,3,heqbzlzk
+Road Pricing,214,zr4f7np0,169,169,A_Planet3_ES,End,14:04.3,1,ES,143,1,0,0,,0,2,2,2,64,1,,0,3,,0,3,3,,1,0,,3,5,3,heqbzlzk
+Public Services,218,ka4kcuj6,169,169,A_Planet3_ES,End,56:06.4,1,ES,81,0,2,,0,2,1,2,2,64,1,,0,4,,1,3,3,,0,0,,4,5,2,heqbzlzk
+Baseline,221,t6jrxb8h,169,169,A_Planet3_ES,End,20:33.9,1,ES,98,1,0,0,,0,2,1,0,162,0,,0,0,,1,1,2,1,4,2,,2,4,3,heqbzlzk
+Public Services,228,irpift4n,169,169,A_Planet3_ES,End,42:13.8,1,ES,139,1,1,1,4,2,2,2,2,64,1,,1,0,,2,1,2,1,2,1,,3,5,3,heqbzlzk
+Baseline,231,qfq3450r,169,169,A_Planet3_ES,End,52:55.4,1,ES,87,1,1,0,4,1,2,2,2,87,4,,0,4,,0,2,0,,1,0,,3,5,4,heqbzlzk
+Public Services,253,47vka7wf,169,169,A_Planet3_ES,End,56:53.3,1,ES,82,0,2,,2,1,2,0,2,64,1,,0,3,,0,3,0,,1,0,,1,4,5,heqbzlzk
+Public Services,263,6oq7522q,169,169,A_Planet3_ES,End,15:58.9,1,ES,88,1,0,0,,1,2,1,2,64,1,,1,0,,0,1,3,1,3,1,,4,3,2,heqbzlzk
+Social Norm,285,1iout7iu,169,169,A_Planet3_ES,End,45:26.4,1,ES,93,0,1,0,0,1,2,1,1,64,1,,0,3,,1,1,0,,2,2,,2,5,3,heqbzlzk
+Public Services,298,wvnuyr7a,169,169,A_Planet3_ES,End,33:45.3,1,ES,87,1,0,1,,0,2,2,0,88,0,,0,0,,1,0,0,1,2,1,,2,5,3,heqbzlzk
+Social Norm,300,mpotx31k,169,169,A_Planet3_ES,End,34:03.7,1,ES,6,1,1,0,2,0,2,2,0,82,0,,0,3,,0,2,1,,0,0,,3,4,3,heqbzlzk
+Baseline,311,k0j0sume,2,169,A_Planet1_ES,A2,08:07.2,1,ES,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Road Pricing,314,zmc7y902,169,169,A_Planet3_ES,End,38:57.5,1,ES,73,0,1,2,4,1,2,2,0,80,6,,2,2,,1,1,1,,1,1,,1,5,4,heqbzlzk
+Baseline,316,88kvwn4t,169,169,A_Planet3_ES,End,52:22.7,1,ES,84,1,2,,4,1,2,2,0,87,0,,0,3,,0,2,0,,10,,no tengo coche y el resto de transporte público es demasiado extendido en el tiempo,2,4,3,heqbzlzk
+Social Norm,320,bzir2hoz,169,169,A_Planet3_ES,End,22:31.2,1,ES,6,0,1,0,4,0,2,2,1,73,1,,0,2,,1,2,0,,0,0,,3,5,3,heqbzlzk
+Pollution,322,hmmuist1,169,169,A_Planet3_ES,End,02:48.5,1,ES,64,1,1,1,4,2,2,2,2,64,1,,1,5,,1,0,0,,6,0,,3,5,3,heqbzlzk
+Public Services,343,j3ffrmtb,169,169,A_Planet3_ES,End,50:46.6,1,ES,98,1,1,0,4,1,2,2,2,98,1,,0,3,,1,0,0,,2,0,,3,6,4,heqbzlzk
+Public Services,353,9u8qjucd,169,169,A_Planet3_ES,End,40:10.7,1,ES,84,0,1,1,1,2,2,2,2,64,1,,0,3,,1,3,0,,8,0,,2,3,3,heqbzlzk
+Road Pricing,354,ke555nhm,169,169,A_Planet3_ES,End,23:46.5,1,ES,81,1,1,1,4,1,2,2,2,64,1,,0,2,,1,2,0,,4,1,,2,4,3,heqbzlzk
+Baseline,356,yzvzh626,169,169,A_Planet3_ES,End,45:26.8,1,ES,78,1,0,1,,0,2,2,0,81,3,,0,2,,1,1,0,,0,0,,2,5,3,heqbzlzk
+Pollution,357,ilct1p4s,169,169,A_Planet3_ES,End,46:50.2,1,ES,81,0,2,,4,1,2,1,2,64,1,,1,4,,0,2,1,,3,1,,2,4,3,heqbzlzk
+Public Services,363,3glf1vq0,1,169,A_Planet1_ES,A1,24:54.8,1,EN,,,,,,,,,,,,,,,,,,,,,,,,,,heqbzlzk
+Pollution,372,g0tx0y9d,169,169,A_Planet3_ES,End,31:48.1,1,ES,92,1,1,0,4,0,1,2,2,73,1,,1,0,,1,1,1,1,4,2,,3,5,3,heqbzlzk
+Public Services,373,55g1eqaq,7,169,A_Planet1_ES,B3,59:14.9,1,ES,81,1,2,,4,,,,0,,,,,,,,,,,,,,,,,heqbzlzk
+Pollution,377,1d2tpjt4,169,169,A_Planet3_ES,End,56:07.3,1,ES,81,1,1,1,1,1,2,1,0,87,5,,2,3,,1,0,1,,2,1,,2,4,3,heqbzlzk
+Social Norm,385,emins2el,169,169,A_Planet3_ES,End,24:05.8,1,ES,81,1,0,0,,2,2,2,2,64,1,,2,3,,1,2,2,,1,0,,1,4,3,heqbzlzk
+Pollution,392,rz5has1n,81,169,A_Planet2_ES,Choice,26:19.1,1,ES,83,1,2,,4,2,2,2,0,86,0,,0,3,,1,2,2,,0,0,,4,4,2,heqbzlzk
+Baseline,396,99ekoser,169,169,A_Planet3_ES,End,00:36.5,1,ES,85,1,0,0,,0,2,2,0,92,0,,0,1,,1,1,1,1,3,1,,4,5,2,heqbzlzk
+Road Pricing,399,8nr05dcp,169,169,A_Planet3_ES,End,22:00.0,1,ES,46,1,0,1,,2,2,2,0,46,2,,0,0,,2,0,2,1,10,,En transporte público llevaria más tiempo. No poseo otro tipo de transporte,1,3,4,heqbzlzk
+Social Norm,400,f1wh7sy7,169,169,A_Planet3_ES,End,59:08.6,1,ES,64,1,0,1,,2,2,2,0,91,0,,0,3,,0,2,3,,0,0,,3,4,3,heqbzlzk
